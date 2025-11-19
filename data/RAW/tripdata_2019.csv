@@ -1,0 +1,1001 @@
+trip_id,start_time,end_time,ride_length,bikeid,tripduration,from_station_id,from_station_name,to_station_id,to_station_name,usertype,gender,birthyear,day_of_week
+21744139,2019-01-01 20:37:48.000000 UTC,2019-01-01 20:40:17.000000 UTC,0:02:29,3079,149.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Subscriber,Female,1992,3
+21758022,2019-01-04 11:16:03.000000 UTC,2019-01-04 11:37:51.000000 UTC,0:21:48,6439,1308.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,6
+21759125,2019-01-04 14:10:54.000000 UTC,2019-01-04 14:38:56.000000 UTC,0:28:02,5272,1682.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,6
+21759126,2019-01-04 14:11:12.000000 UTC,2019-01-04 14:38:56.000000 UTC,0:27:44,3335,1664.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,6
+21765030,2019-01-05 12:17:13.000000 UTC,2019-01-05 13:51:05.000000 UTC,1:33:52,3079,5632.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,7
+21765035,2019-01-05 12:17:35.000000 UTC,2019-01-05 13:51:12.000000 UTC,1:33:37,2760,5617.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,7
+21779615,2019-01-07 21:25:55.000000 UTC,2019-01-07 22:26:57.000000 UTC,1:01:02,93,3662.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,2
+21779616,2019-01-07 21:26:28.000000 UTC,2019-01-07 22:26:57.000000 UTC,1:00:29,4457,3629.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,2
+21991871,2019-03-03 12:42:16.000000 UTC,2019-03-03 12:51:32.000000 UTC,0:09:16,4896,556.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,1
+21991874,2019-03-03 12:42:43.000000 UTC,2019-03-03 12:52:12.000000 UTC,0:09:29,2796,569.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,1
+21992547,2019-03-03 16:41:28.000000 UTC,2019-03-03 17:05:35.000000 UTC,0:24:07,2663,1447.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,1
+21992550,2019-03-03 16:42:08.000000 UTC,2019-03-03 17:05:35.000000 UTC,0:23:27,5239,1407.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,1
+21992551,2019-03-03 16:42:20.000000 UTC,2019-03-03 17:05:35.000000 UTC,0:23:15,3789,1395.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,1
+22015405,2019-03-08 13:58:57.000000 UTC,2019-03-08 14:24:56.000000 UTC,0:25:59,5177,1559.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,Male,1998,6
+22015406,2019-03-08 13:58:57.000000 UTC,2019-03-08 14:25:19.000000 UTC,0:26:22,6311,1582.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,Female,2000,6
+22023123,2019-03-10 16:42:31.000000 UTC,2019-03-10 18:43:27.000000 UTC,2:00:56,2915,7256.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,1
+22023126,2019-03-10 16:43:33.000000 UTC,2019-03-10 18:43:27.000000 UTC,1:59:54,5177,7194.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,1
+22027690,2019-03-11 14:58:50.000000 UTC,2019-03-11 15:16:50.000000 UTC,0:18:00,3790,1080.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,2
+22027692,2019-03-11 14:59:10.000000 UTC,2019-03-11 15:16:35.000000 UTC,0:17:25,2915,1045.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,2
+22040336,2019-03-12 21:07:50.000000 UTC,2019-03-12 22:04:18.000000 UTC,0:56:28,4398,3388.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,3
+22040337,2019-03-12 21:07:53.000000 UTC,2019-03-12 22:04:18.000000 UTC,0:56:25,4529,3385.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,3
+22045529,2019-03-13 17:22:27.000000 UTC,2019-03-13 17:50:29.000000 UTC,0:28:02,4512,1682.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,4
+22045540,2019-03-13 17:22:58.000000 UTC,2019-03-13 17:50:24.000000 UTC,0:27:26,3388,1646.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,4
+22055595,2019-03-14 19:45:52.000000 UTC,2019-03-14 20:43:41.000000 UTC,0:57:49,1856,3469.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,5
+22064286,2019-03-16 11:42:01.000000 UTC,2019-03-16 13:45:22.000000 UTC,2:03:21,5044,7401.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,7
+22064289,2019-03-16 11:42:27.000000 UTC,2019-03-16 13:45:11.000000 UTC,2:02:44,4264,7364.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,7
+22066951,2019-03-16 17:58:08.000000 UTC,2019-03-16 18:13:17.000000 UTC,0:15:09,1218,909.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,7
+22072010,2019-03-17 17:14:04.000000 UTC,2019-03-17 17:39:33.000000 UTC,0:25:29,2099,1529.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,1
+22072013,2019-03-17 17:14:13.000000 UTC,2019-03-17 17:39:13.000000 UTC,0:25:00,2851,1500.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,1
+22072020,2019-03-17 17:15:47.000000 UTC,2019-03-17 17:40:14.000000 UTC,0:24:27,2272,1467.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,1
+22072029,2019-03-17 17:17:07.000000 UTC,2019-03-17 17:40:14.000000 UTC,0:23:07,719,1387.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,1
+22072268,2019-03-17 17:50:51.000000 UTC,2019-03-17 17:56:26.000000 UTC,0:05:35,5544,335.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,Male,2002,1
+22072280,2019-03-17 17:53:45.000000 UTC,2019-03-17 18:13:15.000000 UTC,0:19:30,5788,1170.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,1
+22072290,2019-03-17 17:55:00.000000 UTC,2019-03-17 18:13:38.000000 UTC,0:18:38,719,1118.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,1
+22085901,2019-03-19 14:39:19.000000 UTC,2019-03-19 15:03:42.000000 UTC,0:24:23,2242,1463.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,3
+22085904,2019-03-19 14:39:29.000000 UTC,2019-03-19 15:03:35.000000 UTC,0:24:06,6109,1446.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,3
+22117552,2019-03-23 15:16:02.000000 UTC,2019-03-23 15:58:42.000000 UTC,0:42:40,1943,2560.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,7
+22117557,2019-03-23 15:16:31.000000 UTC,2019-03-23 15:58:34.000000 UTC,0:42:03,3822,2523.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,7
+22117761,2019-03-23 15:33:29.000000 UTC,2019-03-23 16:35:08.000000 UTC,1:01:39,275,3699.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Subscriber,Male,1994,7
+22118596,2019-03-23 16:36:21.000000 UTC,2019-03-23 17:06:34.000000 UTC,0:30:13,275,1813.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Subscriber,Male,1994,7
+22123529,2019-03-24 14:47:43.000000 UTC,2019-03-24 16:09:28.000000 UTC,1:21:45,3190,4905.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,1
+22144945,2019-03-27 13:52:19.000000 UTC,2019-03-27 14:23:22.000000 UTC,0:31:03,5128,1863.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,4
+22144948,2019-03-27 13:52:50.000000 UTC,2019-03-27 14:23:15.000000 UTC,0:30:25,2194,1825.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,4
+22148542,2019-03-27 17:42:19.000000 UTC,2019-03-27 17:56:37.000000 UTC,0:14:18,2293,858.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Subscriber,Male,1994,4
+22148863,2019-03-27 17:56:49.000000 UTC,2019-03-27 18:48:14.000000 UTC,0:51:25,397,3085.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Subscriber,Male,1994,4
+22156026,2019-03-28 13:32:47.000000 UTC,2019-03-28 14:00:48.000000 UTC,0:28:01,3199,1681.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,Female,2000,5
+22156030,2019-03-28 13:33:08.000000 UTC,2019-03-28 14:00:56.000000 UTC,0:27:48,1214,1668.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,Female,2000,5
+22156043,2019-03-28 13:34:35.000000 UTC,2019-03-28 14:00:05.000000 UTC,0:25:30,2591,1530.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,Female,2000,5
+22158480,2019-03-28 16:54:08.000000 UTC,2019-03-28 17:21:44.000000 UTC,0:27:36,3199,1656.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,5
+22176549,2019-03-31 14:04:19.000000 UTC,2019-03-31 15:15:42.000000 UTC,1:11:23,2025,4283.0,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Customer,,,1
+21901676,2019-02-09 14:20:53.000000 UTC,2019-02-09 14:36:29.000000 UTC,0:15:36,1442,936.0,3,Shedd Aquarium,2,Buckingham Fountain (Temp),Customer,Female,1994,7
+21901680,2019-02-09 14:22:34.000000 UTC,2019-02-09 14:36:44.000000 UTC,0:14:10,716,850.0,3,Shedd Aquarium,2,Buckingham Fountain (Temp),Customer,Female,1995,7
+21929752,2019-02-16 11:45:19.000000 UTC,2019-02-16 11:54:12.000000 UTC,0:08:53,391,533.0,3,Shedd Aquarium,2,Buckingham Fountain (Temp),Subscriber,Male,1977,7
+22022472,2019-03-10 13:54:14.000000 UTC,2019-03-10 14:24:52.000000 UTC,0:30:38,6200,1838.0,3,Shedd Aquarium,2,Buckingham Fountain (Temp),Customer,,,1
+22022473,2019-03-10 13:54:19.000000 UTC,2019-03-10 14:24:52.000000 UTC,0:30:33,2915,1833.0,3,Shedd Aquarium,2,Buckingham Fountain (Temp),Customer,,,1
+22085624,2019-03-19 13:56:41.000000 UTC,2019-03-19 14:03:35.000000 UTC,0:06:54,1125,414.0,3,Shedd Aquarium,2,Buckingham Fountain (Temp),Customer,Male,1998,3
+22085628,2019-03-19 13:56:59.000000 UTC,2019-03-19 14:03:43.000000 UTC,0:06:44,2491,404.0,3,Shedd Aquarium,2,Buckingham Fountain (Temp),Customer,Male,1999,3
+22136136,2019-03-26 13:39:34.000000 UTC,2019-03-26 13:49:42.000000 UTC,0:10:08,2453,608.0,3,Shedd Aquarium,2,Buckingham Fountain (Temp),Customer,,,3
+22136137,2019-03-26 13:39:40.000000 UTC,2019-03-26 13:49:42.000000 UTC,0:10:02,3700,602.0,3,Shedd Aquarium,2,Buckingham Fountain (Temp),Customer,,,3
+22156742,2019-03-28 14:52:28.000000 UTC,2019-03-28 15:15:36.000000 UTC,0:23:08,3746,1388.0,3,Shedd Aquarium,2,Buckingham Fountain (Temp),Customer,,,5
+21930711,2019-02-16 15:59:58.000000 UTC,2019-02-16 16:32:06.000000 UTC,0:32:08,679,1928.0,4,Burnham Harbor,2,Buckingham Fountain (Temp),Customer,,,7
+21930713,2019-02-16 16:00:08.000000 UTC,2019-02-16 16:31:14.000000 UTC,0:31:06,1157,1866.0,4,Burnham Harbor,2,Buckingham Fountain (Temp),Customer,,,7
+21930715,2019-02-16 16:00:38.000000 UTC,2019-02-16 16:31:29.000000 UTC,0:30:51,4896,1851.0,4,Burnham Harbor,2,Buckingham Fountain (Temp),Customer,,,7
+21930719,2019-02-16 16:01:18.000000 UTC,2019-02-16 16:31:37.000000 UTC,0:30:19,2739,1819.0,4,Burnham Harbor,2,Buckingham Fountain (Temp),Customer,,,7
+21930723,2019-02-16 16:01:50.000000 UTC,2019-02-16 16:31:38.000000 UTC,0:29:48,2030,1788.0,4,Burnham Harbor,2,Buckingham Fountain (Temp),Customer,,,7
+21930726,2019-02-16 16:02:14.000000 UTC,2019-02-16 16:31:57.000000 UTC,0:29:43,4554,1783.0,4,Burnham Harbor,2,Buckingham Fountain (Temp),Customer,,,7
+21930728,2019-02-16 16:02:46.000000 UTC,2019-02-21 12:27:58.000000 UTC,116:25:12,2821,419112.0,4,Burnham Harbor,2,Buckingham Fountain (Temp),Customer,,,5
+22036555,2019-03-12 16:10:31.000000 UTC,2019-03-12 16:19:00.000000 UTC,0:08:29,6229,509.0,4,Burnham Harbor,2,Buckingham Fountain (Temp),Subscriber,Male,1979,3
+21783217,2019-01-08 12:45:29.000000 UTC,2019-01-08 13:04:36.000000 UTC,0:19:07,5612,1147.0,6,Dusable Harbor,2,Buckingham Fountain (Temp),Customer,Female,1999,3
+22066375,2019-03-16 16:28:15.000000 UTC,2019-03-16 16:50:22.000000 UTC,0:22:07,1218,1327.0,6,Dusable Harbor,2,Buckingham Fountain (Temp),Customer,,,7
+22066376,2019-03-16 16:28:19.000000 UTC,2019-03-16 16:50:22.000000 UTC,0:22:03,2928,1323.0,6,Dusable Harbor,2,Buckingham Fountain (Temp),Customer,,,7
+22066378,2019-03-16 16:28:24.000000 UTC,2019-03-16 16:50:40.000000 UTC,0:22:16,3752,1336.0,6,Dusable Harbor,2,Buckingham Fountain (Temp),Customer,,,7
+22066387,2019-03-16 16:28:54.000000 UTC,2019-03-16 16:50:22.000000 UTC,0:21:28,4352,1288.0,6,Dusable Harbor,2,Buckingham Fountain (Temp),Customer,,,7
+22166434,2019-03-29 14:18:35.000000 UTC,2019-03-29 15:06:35.000000 UTC,0:48:00,1707,2880.0,6,Dusable Harbor,2,Buckingham Fountain (Temp),Customer,Male,1986,6
+22166478,2019-03-29 14:25:09.000000 UTC,2019-03-29 15:07:13.000000 UTC,0:42:04,3521,2524.0,6,Dusable Harbor,2,Buckingham Fountain (Temp),Customer,Female,1986,6
+22023625,2019-03-10 18:37:16.000000 UTC,2019-03-10 18:58:01.000000 UTC,0:20:45,3790,1245.0,7,Field Blvd & South Water St,2,Buckingham Fountain (Temp),Customer,Male,1992,1
+22023626,2019-03-10 18:37:49.000000 UTC,2019-03-10 18:58:01.000000 UTC,0:20:12,288,1212.0,7,Field Blvd & South Water St,2,Buckingham Fountain (Temp),Customer,Female,1995,1
+22053952,2019-03-14 17:20:18.000000 UTC,2019-03-14 17:32:15.000000 UTC,0:11:57,3325,717.0,7,Field Blvd & South Water St,2,Buckingham Fountain (Temp),Subscriber,Male,1986,5
+22037079,2019-03-12 16:42:52.000000 UTC,2019-03-12 17:43:23.000000 UTC,1:00:31,2871,3631.0,24,Fairbanks Ct & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,3
+22037084,2019-03-12 16:43:04.000000 UTC,2019-03-12 17:42:50.000000 UTC,0:59:46,3716,3586.0,24,Fairbanks Ct & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,3
+22037091,2019-03-12 16:43:42.000000 UTC,2019-03-12 17:42:54.000000 UTC,0:59:12,1964,3552.0,24,Fairbanks Ct & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,3
+22053923,2019-03-14 17:19:05.000000 UTC,2019-03-14 17:32:15.000000 UTC,0:13:10,3536,790.0,24,Fairbanks Ct & Grand Ave,2,Buckingham Fountain (Temp),Subscriber,Male,1990,5
+21991828,2019-03-03 12:29:46.000000 UTC,2019-03-03 12:52:56.000000 UTC,0:23:10,5177,1390.0,26,McClurg Ct & Illinois St,2,Buckingham Fountain (Temp),Customer,,,1
+21991833,2019-03-03 12:30:29.000000 UTC,2019-03-03 12:52:56.000000 UTC,0:22:27,2437,1347.0,26,McClurg Ct & Illinois St,2,Buckingham Fountain (Temp),Customer,,,1
+22047782,2019-03-13 20:46:31.000000 UTC,2019-03-13 21:15:59.000000 UTC,0:29:28,6213,1768.0,33,State St & Van Buren St,2,Buckingham Fountain (Temp),Subscriber,Female,2000,4
+22047790,2019-03-13 20:47:28.000000 UTC,2019-03-13 21:15:59.000000 UTC,0:28:31,5456,1711.0,33,State St & Van Buren St,2,Buckingham Fountain (Temp),Customer,,,4
+22047805,2019-03-13 20:51:13.000000 UTC,2019-03-13 21:16:20.000000 UTC,0:25:07,4835,1507.0,33,State St & Van Buren St,2,Buckingham Fountain (Temp),Customer,,,4
+22047808,2019-03-13 20:51:55.000000 UTC,2019-03-13 21:16:25.000000 UTC,0:24:30,925,1470.0,33,State St & Van Buren St,2,Buckingham Fountain (Temp),Customer,,,4
+22055820,2019-03-14 20:40:23.000000 UTC,2019-03-14 20:56:18.000000 UTC,0:15:55,4175,955.0,33,State St & Van Buren St,2,Buckingham Fountain (Temp),Subscriber,Male,1987,5
+22120141,2019-03-23 19:30:47.000000 UTC,2019-03-23 19:50:03.000000 UTC,0:19:16,4926,1156.0,33,State St & Van Buren St,2,Buckingham Fountain (Temp),Subscriber,Male,1987,7
+22121146,2019-03-24 08:15:42.000000 UTC,2019-03-24 09:08:42.000000 UTC,0:53:00,3190,3180.0,33,State St & Van Buren St,2,Buckingham Fountain (Temp),Subscriber,Female,1961,1
+22121148,2019-03-24 08:16:05.000000 UTC,2019-03-24 09:08:42.000000 UTC,0:52:37,397,3157.0,33,State St & Van Buren St,2,Buckingham Fountain (Temp),Subscriber,Male,1961,1
+22177875,2019-03-31 18:16:05.000000 UTC,2019-03-31 18:56:54.000000 UTC,0:40:49,1994,2449.0,33,State St & Van Buren St,2,Buckingham Fountain (Temp),Customer,,,1
+22177877,2019-03-31 18:16:31.000000 UTC,2019-03-31 18:54:39.000000 UTC,0:38:08,469,2288.0,33,State St & Van Buren St,2,Buckingham Fountain (Temp),Customer,,,1
+21766265,2019-01-05 13:56:22.000000 UTC,2019-01-05 14:27:11.000000 UTC,0:30:49,3625,1849.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Subscriber,Male,1983,7
+22034966,2019-03-12 12:43:14.000000 UTC,2019-03-12 13:01:08.000000 UTC,0:17:54,5796,1074.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,3
+22034967,2019-03-12 12:43:18.000000 UTC,2019-03-12 13:01:14.000000 UTC,0:17:56,5095,1076.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,3
+22034969,2019-03-12 12:43:29.000000 UTC,2019-03-12 13:01:14.000000 UTC,0:17:45,1615,1065.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,3
+22077585,2019-03-18 15:50:18.000000 UTC,2019-03-18 16:04:44.000000 UTC,0:14:26,3998,866.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,2
+22077587,2019-03-18 15:50:27.000000 UTC,2019-03-18 16:04:30.000000 UTC,0:14:03,1291,843.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,2
+22116722,2019-03-23 14:09:18.000000 UTC,2019-03-23 14:32:48.000000 UTC,0:23:30,275,1410.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,7
+22116732,2019-03-23 14:10:12.000000 UTC,2019-03-23 14:32:48.000000 UTC,0:22:36,1943,1356.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,7
+22116743,2019-03-23 14:10:56.000000 UTC,2019-03-23 14:32:56.000000 UTC,0:22:00,3822,1320.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,7
+22116760,2019-03-23 14:11:44.000000 UTC,2019-03-23 14:32:48.000000 UTC,0:21:04,2314,1264.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,7
+22145545,2019-03-27 15:09:59.000000 UTC,2019-03-27 16:24:30.000000 UTC,1:14:31,2290,4471.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,4
+22145648,2019-03-27 15:19:08.000000 UTC,2019-03-27 16:24:12.000000 UTC,1:05:04,4451,3904.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,Male,2000,4
+22146816,2019-03-27 16:41:13.000000 UTC,2019-03-27 17:10:42.000000 UTC,0:29:29,3758,1769.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,4
+22149664,2019-03-27 18:35:15.000000 UTC,2019-03-27 19:02:51.000000 UTC,0:27:36,820,1656.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,4
+22149803,2019-03-27 18:44:43.000000 UTC,2019-03-27 19:02:40.000000 UTC,0:17:57,771,1077.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,4
+22154534,2019-03-28 10:56:34.000000 UTC,2019-03-28 11:50:46.000000 UTC,0:54:12,6229,3252.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,5
+22154537,2019-03-28 10:57:05.000000 UTC,2019-03-28 11:50:46.000000 UTC,0:53:41,1442,3221.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,5
+22154539,2019-03-28 10:57:11.000000 UTC,2019-03-28 11:50:46.000000 UTC,0:53:35,2588,3215.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,5
+22154543,2019-03-28 10:57:34.000000 UTC,2019-03-28 11:50:46.000000 UTC,0:53:12,1246,3192.0,35,Streeter Dr & Grand Ave,2,Buckingham Fountain (Temp),Customer,,,5
+21931365,2019-02-16 19:50:45.000000 UTC,2019-02-16 20:33:06.000000 UTC,0:42:21,2594,2541.0,36,Franklin St & Jackson Blvd,2,Buckingham Fountain (Temp),Customer,,,7
+21931366,2019-02-16 19:51:04.000000 UTC,2019-02-16 20:33:06.000000 UTC,0:42:02,5524,2522.0,36,Franklin St & Jackson Blvd,2,Buckingham Fountain (Temp),Customer,,,7
+21990352,2019-03-02 16:59:43.000000 UTC,2019-03-02 17:23:41.000000 UTC,0:23:58,4360,1438.0,36,Franklin St & Jackson Blvd,2,Buckingham Fountain (Temp),Customer,,,7
+21990354,2019-03-02 16:59:56.000000 UTC,2019-03-02 17:23:28.000000 UTC,0:23:32,5552,1412.0,36,Franklin St & Jackson Blvd,2,Buckingham Fountain (Temp),Customer,,,7
+22088000,2019-03-19 17:11:20.000000 UTC,2019-03-19 17:20:39.000000 UTC,0:09:19,4320,559.0,38,Clark St & Lake St,2,Buckingham Fountain (Temp),Subscriber,Male,1973,3
+22094436,2019-03-20 16:39:21.000000 UTC,2019-03-20 16:50:59.000000 UTC,0:11:38,6247,698.0,40,LaSalle St & Adams St,2,Buckingham Fountain (Temp),Subscriber,Male,1975,4
+22138583,2019-03-26 17:30:33.000000 UTC,2019-03-26 17:50:02.000000 UTC,0:19:29,1998,1169.0,40,LaSalle St & Adams St,2,Buckingham Fountain (Temp),Customer,Female,2000,3
+22138586,2019-03-26 17:30:39.000000 UTC,2019-03-26 17:49:50.000000 UTC,0:19:11,6204,1151.0,40,LaSalle St & Adams St,2,Buckingham Fountain (Temp),Customer,Male,1993,3
+22138643,2019-03-26 17:32:40.000000 UTC,2019-03-26 17:50:02.000000 UTC,0:17:22,6221,1042.0,40,LaSalle St & Adams St,2,Buckingham Fountain (Temp),Customer,Female,1970,3
+22148204,2019-03-27 17:29:57.000000 UTC,2019-03-27 17:41:12.000000 UTC,0:11:15,5310,675.0,40,LaSalle St & Adams St,2,Buckingham Fountain (Temp),Subscriber,Male,1994,4
+21768286,2019-01-05 16:16:27.000000 UTC,2019-01-05 17:29:27.000000 UTC,1:13:00,5066,4380.0,43,Michigan Ave & Washington St,2,Buckingham Fountain (Temp),Customer,,,7
+21768288,2019-01-05 16:16:30.000000 UTC,2019-01-05 17:29:49.000000 UTC,1:13:19,3386,4399.0,43,Michigan Ave & Washington St,2,Buckingham Fountain (Temp),Customer,,,7
+21768293,2019-01-05 16:16:37.000000 UTC,2019-01-05 17:29:32.000000 UTC,1:12:55,895,4375.0,43,Michigan Ave & Washington St,2,Buckingham Fountain (Temp),Customer,,,7
+21768297,2019-01-05 16:16:41.000000 UTC,2019-01-05 17:29:49.000000 UTC,1:13:08,6053,4388.0,43,Michigan Ave & Washington St,2,Buckingham Fountain (Temp),Customer,,,7
+21770712,2019-01-06 09:47:54.000000 UTC,2019-01-06 10:08:33.000000 UTC,0:20:39,405,1239.0,43,Michigan Ave & Washington St,2,Buckingham Fountain (Temp),Customer,,,1
+21770713,2019-01-06 09:47:59.000000 UTC,2019-01-06 10:08:33.000000 UTC,0:20:34,2551,1234.0,43,Michigan Ave & Washington St,2,Buckingham Fountain (Temp),Customer,,,1
+22052339,2019-03-14 15:55:19.000000 UTC,2019-03-14 16:57:21.000000 UTC,1:02:02,1030,3722.0,45,Michigan Ave & Ida B Wells Dr,2,Buckingham Fountain (Temp),Customer,,,5
+22052347,2019-03-14 15:56:03.000000 UTC,2019-03-14 16:57:46.000000 UTC,1:01:43,5044,3703.0,45,Michigan Ave & Ida B Wells Dr,2,Buckingham Fountain (Temp),Customer,,,5
+22102028,2019-03-21 16:59:21.000000 UTC,2019-03-21 17:09:08.000000 UTC,0:09:47,1133,587.0,47,State St & Kinzie St,2,Buckingham Fountain (Temp),Subscriber,Male,1973,5
+22066841,2019-03-16 17:39:56.000000 UTC,2019-03-16 18:09:33.000000 UTC,0:29:37,1480,1777.0,50,Clark St & Ida B Wells Dr,2,Buckingham Fountain (Temp),Customer,,,7
+22066842,2019-03-16 17:40:11.000000 UTC,2019-03-16 18:09:42.000000 UTC,0:29:31,481,1771.0,50,Clark St & Ida B Wells Dr,2,Buckingham Fountain (Temp),Customer,,,7
+22066844,2019-03-16 17:40:29.000000 UTC,2019-03-16 18:09:33.000000 UTC,0:29:04,3404,1744.0,50,Clark St & Ida B Wells Dr,2,Buckingham Fountain (Temp),Customer,Female,2000,7
+22066851,2019-03-16 17:42:35.000000 UTC,2019-03-16 18:09:33.000000 UTC,0:26:58,2206,1618.0,50,Clark St & Ida B Wells Dr,2,Buckingham Fountain (Temp),Customer,,,7
+22066879,2019-03-16 17:46:39.000000 UTC,2019-03-16 18:09:27.000000 UTC,0:22:48,4223,1368.0,50,Clark St & Ida B Wells Dr,2,Buckingham Fountain (Temp),Customer,,,7
+22121619,2019-03-24 10:12:21.000000 UTC,2019-03-24 10:37:38.000000 UTC,0:25:17,727,1517.0,51,Clark St & Randolph St,2,Buckingham Fountain (Temp),Subscriber,Female,1989,1
+22063951,2019-03-16 10:52:10.000000 UTC,2019-03-16 12:00:41.000000 UTC,1:08:31,6357,4111.0,53,Wells St & Huron St,2,Buckingham Fountain (Temp),Customer,Male,1979,7
+21984257,2019-03-01 10:07:06.000000 UTC,2019-03-01 10:46:47.000000 UTC,0:39:41,2663,2381.0,62,McCormick Place,2,Buckingham Fountain (Temp),Customer,,,6
+21984261,2019-03-01 10:07:23.000000 UTC,2019-03-01 10:47:07.000000 UTC,0:39:44,785,2384.0,62,McCormick Place,2,Buckingham Fountain (Temp),Customer,,,6
+21984263,2019-03-01 10:07:33.000000 UTC,2019-03-01 10:47:12.000000 UTC,0:39:39,6070,2379.0,62,McCormick Place,2,Buckingham Fountain (Temp),Customer,,,6
+21984264,2019-03-01 10:07:39.000000 UTC,2019-03-01 10:47:12.000000 UTC,0:39:33,2103,2373.0,62,McCormick Place,2,Buckingham Fountain (Temp),Customer,,,6
+22102038,2019-03-21 16:59:58.000000 UTC,2019-03-21 17:11:10.000000 UTC,0:11:12,4795,672.0,68,Clinton St & Tilden St,2,Buckingham Fountain (Temp),Subscriber,Female,1960,5
+21770302,2019-01-06 03:01:33.000000 UTC,2019-01-06 03:14:08.000000 UTC,0:12:35,5608,755.0,76,Lake Shore Dr & Monroe St,2,Buckingham Fountain (Temp),Customer,,,1
+21770303,2019-01-06 03:01:44.000000 UTC,2019-01-06 03:13:59.000000 UTC,0:12:15,3451,735.0,76,Lake Shore Dr & Monroe St,2,Buckingham Fountain (Temp),Customer,,,1
+22172433,2019-03-30 12:57:01.000000 UTC,2019-03-30 14:23:48.000000 UTC,1:26:47,381,5207.0,76,Lake Shore Dr & Monroe St,2,Buckingham Fountain (Temp),Customer,Male,1997,7
+21988798,2019-03-02 10:47:23.000000 UTC,2019-03-02 11:55:08.000000 UTC,1:07:45,1062,4065.0,85,Michigan Ave & Oak St,2,Buckingham Fountain (Temp),Customer,,,7
+21988801,2019-03-02 10:47:27.000000 UTC,2019-03-02 11:55:01.000000 UTC,1:07:34,4153,4054.0,85,Michigan Ave & Oak St,2,Buckingham Fountain (Temp),Customer,,,7
+22070704,2019-03-17 14:42:39.000000 UTC,2019-03-17 15:35:20.000000 UTC,0:52:41,3701,3161.0,85,Michigan Ave & Oak St,2,Buckingham Fountain (Temp),Customer,Female,1995,1
+21832794,2019-01-17 16:26:07.000000 UTC,2019-01-17 16:35:04.000000 UTC,0:08:57,420,537.0,89,Financial Pl & Ida B Wells Dr (Temp),2,Buckingham Fountain (Temp),Subscriber,Male,1962,5
+21838646,2019-01-18 14:30:10.000000 UTC,2019-01-18 14:38:02.000000 UTC,0:07:52,650,472.0,89,Financial Pl & Ida B Wells Dr (Temp),2,Buckingham Fountain (Temp),Subscriber,Male,1962,6
+22028287,2019-03-11 16:19:23.000000 UTC,2019-03-11 16:26:50.000000 UTC,0:07:27,158,447.0,90,Millennium Park,2,Buckingham Fountain (Temp),Customer,,,2
+22054664,2019-03-14 17:54:56.000000 UTC,2019-03-14 18:00:29.000000 UTC,0:05:33,3680,333.0,90,Millennium Park,2,Buckingham Fountain (Temp),Subscriber,Male,2002,5
+22054666,2019-03-14 17:55:07.000000 UTC,2019-03-14 18:00:21.000000 UTC,0:05:14,5846,314.0,90,Millennium Park,2,Buckingham Fountain (Temp),Subscriber,Male,1976,5
+22070361,2019-03-17 14:13:49.000000 UTC,2019-03-17 14:28:37.000000 UTC,0:14:48,6280,888.0,90,Millennium Park,2,Buckingham Fountain (Temp),Subscriber,Male,1981,1
+22072196,2019-03-17 17:40:16.000000 UTC,2019-03-17 17:55:24.000000 UTC,0:15:08,4841,908.0,90,Millennium Park,2,Buckingham Fountain (Temp),Customer,Female,1971,1
+22072203,2019-03-17 17:40:48.000000 UTC,2019-03-17 17:50:33.000000 UTC,0:09:45,5788,585.0,90,Millennium Park,2,Buckingham Fountain (Temp),Customer,Male,2002,1
+22103191,2019-03-21 17:57:06.000000 UTC,2019-03-21 18:24:14.000000 UTC,0:27:08,1070,1628.0,90,Millennium Park,2,Buckingham Fountain (Temp),Customer,,,5
+22103194,2019-03-21 17:57:19.000000 UTC,2019-03-21 18:24:14.000000 UTC,0:26:55,2442,1615.0,90,Millennium Park,2,Buckingham Fountain (Temp),Customer,,,5
+22145204,2019-03-27 14:29:23.000000 UTC,2019-03-27 14:37:14.000000 UTC,0:07:51,5752,471.0,90,Millennium Park,2,Buckingham Fountain (Temp),Subscriber,Male,1973,4
+22156593,2019-03-28 14:35:42.000000 UTC,2019-03-28 14:56:58.000000 UTC,0:21:16,1656,1276.0,90,Millennium Park,2,Buckingham Fountain (Temp),Customer,,,5
+22156597,2019-03-28 14:35:54.000000 UTC,2019-03-28 14:56:54.000000 UTC,0:21:00,5149,1260.0,90,Millennium Park,2,Buckingham Fountain (Temp),Customer,,,5
+22176742,2019-03-31 14:36:53.000000 UTC,2019-03-31 14:53:00.000000 UTC,0:16:07,1181,967.0,90,Millennium Park,2,Buckingham Fountain (Temp),Subscriber,Male,1977,1
+21868723,2019-02-02 16:40:46.000000 UTC,2019-02-02 16:58:35.000000 UTC,0:17:49,3671,1069.0,97,Field Museum,2,Buckingham Fountain (Temp),Customer,,,7
+21928271,2019-02-15 18:14:52.000000 UTC,2019-02-15 18:20:37.000000 UTC,0:05:45,104,345.0,97,Field Museum,2,Buckingham Fountain (Temp),Subscriber,Male,1963,6
+21986360,2019-03-01 16:52:10.000000 UTC,2019-03-01 17:49:01.000000 UTC,0:56:51,5244,3411.0,97,Field Museum,2,Buckingham Fountain (Temp),Customer,,,6
+21986366,2019-03-01 16:52:24.000000 UTC,2019-03-01 17:50:11.000000 UTC,0:57:47,6283,3467.0,97,Field Museum,2,Buckingham Fountain (Temp),Customer,,,6
+22052187,2019-03-14 15:40:34.000000 UTC,2019-03-14 16:02:11.000000 UTC,0:21:37,1856,1297.0,97,Field Museum,2,Buckingham Fountain (Temp),Customer,,,5
+22052191,2019-03-14 15:40:49.000000 UTC,2019-03-14 16:02:30.000000 UTC,0:21:41,1229,1301.0,97,Field Museum,2,Buckingham Fountain (Temp),Customer,,,5
+22052203,2019-03-14 15:43:03.000000 UTC,2019-03-14 16:02:06.000000 UTC,0:19:03,4264,1143.0,97,Field Museum,2,Buckingham Fountain (Temp),Customer,,,5
+22052238,2019-03-14 15:45:59.000000 UTC,2019-03-14 16:02:09.000000 UTC,0:16:10,6224,970.0,97,Field Museum,2,Buckingham Fountain (Temp),Customer,,,5
+22085720,2019-03-19 14:10:37.000000 UTC,2019-03-19 14:22:11.000000 UTC,0:11:34,2236,694.0,97,Field Museum,2,Buckingham Fountain (Temp),Customer,,,3
+22085725,2019-03-19 14:10:53.000000 UTC,2019-03-19 14:21:52.000000 UTC,0:10:59,5251,659.0,97,Field Museum,2,Buckingham Fountain (Temp),Customer,,,3
+22085731,2019-03-19 14:11:44.000000 UTC,2019-03-19 14:22:07.000000 UTC,0:10:23,5140,623.0,97,Field Museum,2,Buckingham Fountain (Temp),Customer,,,3
+22121822,2019-03-24 10:39:26.000000 UTC,2019-03-24 11:14:50.000000 UTC,0:35:24,5379,2124.0,97,Field Museum,2,Buckingham Fountain (Temp),Customer,Male,1983,1
+22063996,2019-03-16 10:58:34.000000 UTC,2019-03-16 11:16:18.000000 UTC,0:17:44,2314,1064.0,99,Lake Shore Dr & Ohio St,2,Buckingham Fountain (Temp),Subscriber,Male,1995,7
+22115058,2019-03-23 12:00:33.000000 UTC,2019-03-23 12:44:53.000000 UTC,0:44:20,4147,2660.0,99,Lake Shore Dr & Ohio St,2,Buckingham Fountain (Temp),Customer,,,7
+22035010,2019-03-12 12:47:36.000000 UTC,2019-03-12 13:01:17.000000 UTC,0:13:41,4398,821.0,109,900 W Harrison St,2,Buckingham Fountain (Temp),Customer,,,3
+22052332,2019-03-14 15:54:42.000000 UTC,2019-03-14 17:11:53.000000 UTC,1:17:11,5149,4631.0,128,Damen Ave & Chicago Ave,2,Buckingham Fountain (Temp),Customer,Male,1998,5
+21991184,2019-03-03 08:12:40.000000 UTC,2019-03-03 08:30:27.000000 UTC,0:17:47,6262,1067.0,134,Peoria St & Jackson Blvd,2,Buckingham Fountain (Temp),Subscriber,Female,1995,1
+22018808,2019-03-09 08:22:55.000000 UTC,2019-03-09 08:41:28.000000 UTC,0:18:33,1438,1113.0,134,Peoria St & Jackson Blvd,2,Buckingham Fountain (Temp),Subscriber,Female,1995,7
+22036651,2019-03-12 16:16:44.000000 UTC,2019-03-12 16:34:46.000000 UTC,0:18:02,6444,1082.0,134,Peoria St & Jackson Blvd,2,Buckingham Fountain (Temp),Subscriber,Male,1993,3
+22113405,2019-03-23 08:19:34.000000 UTC,2019-03-23 08:36:38.000000 UTC,0:17:04,2027,1024.0,134,Peoria St & Jackson Blvd,2,Buckingham Fountain (Temp),Subscriber,Female,1995,7
+22170916,2019-03-30 08:31:03.000000 UTC,2019-03-30 08:49:04.000000 UTC,0:18:01,6295,1081.0,134,Peoria St & Jackson Blvd,2,Buckingham Fountain (Temp),Subscriber,Female,1995,7
+21831587,2019-01-17 12:18:49.000000 UTC,2019-01-17 12:35:36.000000 UTC,0:16:47,5299,1007.0,137,Morgan Ave & 14th Pl,2,Buckingham Fountain (Temp),Subscriber,Male,1966,5
+22143579,2019-03-27 10:21:20.000000 UTC,2019-03-27 10:51:57.000000 UTC,0:30:37,2293,1837.0,150,Fort Dearborn Dr & 31st St,2,Buckingham Fountain (Temp),Customer,,,4
+22143580,2019-03-27 10:21:40.000000 UTC,2019-03-27 10:52:02.000000 UTC,0:30:22,1627,1822.0,150,Fort Dearborn Dr & 31st St,2,Buckingham Fountain (Temp),Customer,,,4
+22157637,2019-03-28 16:10:13.000000 UTC,2019-03-28 17:48:25.000000 UTC,1:38:12,4524,5892.0,161,Rush St & Superior St,2,Buckingham Fountain (Temp),Customer,,,5
+22157640,2019-03-28 16:10:31.000000 UTC,2019-03-28 17:48:44.000000 UTC,1:38:13,5391,5893.0,161,Rush St & Superior St,2,Buckingham Fountain (Temp),Customer,,,5
+21752455,2019-01-03 15:13:41.000000 UTC,2019-01-03 15:20:13.000000 UTC,0:06:32,5578,392.0,168,Michigan Ave & 14th St,2,Buckingham Fountain (Temp),Subscriber,Male,1970,5
+22121123,2019-03-24 08:07:30.000000 UTC,2019-03-24 08:21:10.000000 UTC,0:13:40,3531,820.0,175,Wells St & Polk St,2,Buckingham Fountain (Temp),Subscriber,Male,1979,1
+22090170,2019-03-19 19:09:05.000000 UTC,2019-03-19 19:45:19.000000 UTC,0:36:14,5304,2174.0,177,Theater on the Lake,2,Buckingham Fountain (Temp),Customer,,,3
+22090177,2019-03-19 19:09:25.000000 UTC,2019-03-19 19:45:19.000000 UTC,0:35:54,427,2154.0,177,Theater on the Lake,2,Buckingham Fountain (Temp),Customer,,,3
+22090190,2019-03-19 19:10:39.000000 UTC,2019-03-19 19:45:07.000000 UTC,0:34:28,2787,2068.0,177,Theater on the Lake,2,Buckingham Fountain (Temp),Customer,,,3
+22090214,2019-03-19 19:12:59.000000 UTC,2019-03-19 19:45:19.000000 UTC,0:32:20,2808,1940.0,177,Theater on the Lake,2,Buckingham Fountain (Temp),Customer,,,3
+22045161,2019-03-13 17:06:07.000000 UTC,2019-03-13 17:17:59.000000 UTC,0:11:52,1959,712.0,181,LaSalle St & Illinois St,2,Buckingham Fountain (Temp),Subscriber,Female,1989,4
+21865642,2019-02-01 13:35:35.000000 UTC,2019-02-01 13:44:59.000000 UTC,0:09:24,2991,564.0,191,Canal St & Monroe St (*),2,Buckingham Fountain (Temp),Subscriber,Male,1995,6
+21961773,2019-02-25 07:46:59.000000 UTC,2019-02-25 07:56:58.000000 UTC,0:09:59,6002,599.0,191,Canal St & Monroe St (*),2,Buckingham Fountain (Temp),Subscriber,Male,1963,2
+22036599,2019-03-12 16:13:13.000000 UTC,2019-03-12 16:33:18.000000 UTC,0:20:05,5890,1205.0,191,Canal St & Monroe St (*),2,Buckingham Fountain (Temp),Subscriber,Male,1983,3
+21966508,2019-02-26 07:20:22.000000 UTC,2019-02-26 07:29:17.000000 UTC,0:08:55,5923,535.0,192,Canal St & Adams St,2,Buckingham Fountain (Temp),Subscriber,Male,1988,3
+21824812,2019-01-16 11:46:42.000000 UTC,2019-01-16 11:58:59.000000 UTC,0:12:17,1440,737.0,195,Columbus Dr & Randolph St,2,Buckingham Fountain (Temp),Subscriber,Male,1961,4
+21988947,2019-03-02 11:23:57.000000 UTC,2019-03-02 12:50:45.000000 UTC,1:26:48,6311,5208.0,195,Columbus Dr & Randolph St,2,Buckingham Fountain (Temp),Customer,,,7
+22027349,2019-03-11 13:40:16.000000 UTC,2019-03-11 14:22:57.000000 UTC,0:42:41,2264,2561.0,195,Columbus Dr & Randolph St,2,Buckingham Fountain (Temp),Customer,,,2
+22115202,2019-03-23 12:13:19.000000 UTC,2019-03-23 12:35:27.000000 UTC,0:22:08,2214,1328.0,196,Cityfront Plaza Dr & Pioneer Ct,2,Buckingham Fountain (Temp),Customer,Male,1970,7
+22121435,2019-03-24 09:40:08.000000 UTC,2019-03-24 10:00:13.000000 UTC,0:20:05,2955,1205.0,196,Cityfront Plaza Dr & Pioneer Ct,2,Buckingham Fountain (Temp),Subscriber,Male,1982,1
+22167160,2019-03-29 15:28:13.000000 UTC,2019-03-29 16:51:51.000000 UTC,1:23:38,4231,5018.0,196,Cityfront Plaza Dr & Pioneer Ct,2,Buckingham Fountain (Temp),Customer,,,6
+22087348,2019-03-19 16:43:47.000000 UTC,2019-03-19 17:09:46.000000 UTC,0:25:59,4060,1559.0,212,Wells St & Hubbard St,2,Buckingham Fountain (Temp),Customer,,,3
+22087417,2019-03-19 16:46:43.000000 UTC,2019-03-19 17:09:46.000000 UTC,0:23:03,4369,1383.0,212,Wells St & Hubbard St,2,Buckingham Fountain (Temp),Customer,,,3
+22087454,2019-03-19 16:48:18.000000 UTC,2019-03-19 17:09:49.000000 UTC,0:21:31,375,1291.0,212,Wells St & Hubbard St,2,Buckingham Fountain (Temp),Customer,,,3
+22087456,2019-03-19 16:48:28.000000 UTC,2019-03-19 17:10:11.000000 UTC,0:21:43,4167,1303.0,212,Wells St & Hubbard St,2,Buckingham Fountain (Temp),Customer,,,3
+22087464,2019-03-19 16:48:52.000000 UTC,2019-03-19 17:10:01.000000 UTC,0:21:09,5067,1269.0,212,Wells St & Hubbard St,2,Buckingham Fountain (Temp),Customer,,,3
+21842520,2019-01-20 13:39:48.000000 UTC,2019-01-20 13:56:45.000000 UTC,0:16:57,3789,1017.0,241,Morgan St & Polk St,2,Buckingham Fountain (Temp),Subscriber,Male,1993,1
+21842521,2019-01-20 13:39:52.000000 UTC,2019-01-20 13:56:27.000000 UTC,0:16:35,6438,995.0,241,Morgan St & Polk St,2,Buckingham Fountain (Temp),Subscriber,Male,1993,1
+22071502,2019-03-17 16:11:32.000000 UTC,2019-03-17 17:04:38.000000 UTC,0:53:06,5544,3186.0,247,Shore Dr & 55th St,2,Buckingham Fountain (Temp),Customer,Female,1984,1
+21751002,2019-01-03 09:33:16.000000 UTC,2019-01-03 09:39:47.000000 UTC,0:06:31,2086,391.0,255,Indiana Ave & Roosevelt Rd,2,Buckingham Fountain (Temp),Subscriber,Female,1952,5
+21810787,2019-01-14 07:41:41.000000 UTC,2019-01-14 07:51:34.000000 UTC,0:09:53,1879,593.0,255,Indiana Ave & Roosevelt Rd,2,Buckingham Fountain (Temp),Subscriber,Female,1952,2
+22034022,2019-03-12 10:00:00.000000 UTC,2019-03-12 10:58:06.000000 UTC,0:58:06,3572,3486.0,255,Indiana Ave & Roosevelt Rd,2,Buckingham Fountain (Temp),Customer,,,3
+22034030,2019-03-12 10:00:48.000000 UTC,2019-03-12 10:58:19.000000 UTC,0:57:31,3421,3451.0,255,Indiana Ave & Roosevelt Rd,2,Buckingham Fountain (Temp),Customer,,,3
+22116570,2019-03-23 13:59:21.000000 UTC,2019-03-23 14:28:11.000000 UTC,0:28:50,1909,1730.0,255,Indiana Ave & Roosevelt Rd,2,Buckingham Fountain (Temp),Subscriber,Male,1964,7
+22130913,2019-03-25 18:09:06.000000 UTC,2019-03-25 18:35:49.000000 UTC,0:26:43,6025,1603.0,255,Indiana Ave & Roosevelt Rd,2,Buckingham Fountain (Temp),Customer,,,2
+22130917,2019-03-25 18:09:12.000000 UTC,2019-03-25 18:36:02.000000 UTC,0:26:50,6271,1610.0,255,Indiana Ave & Roosevelt Rd,2,Buckingham Fountain (Temp),Customer,,,2
+22130919,2019-03-25 18:09:21.000000 UTC,2019-03-25 18:35:49.000000 UTC,0:26:28,5060,1588.0,255,Indiana Ave & Roosevelt Rd,2,Buckingham Fountain (Temp),Customer,,,2
+22156203,2019-03-28 13:51:34.000000 UTC,2019-03-28 14:20:04.000000 UTC,0:28:30,2198,1710.0,255,Indiana Ave & Roosevelt Rd,2,Buckingham Fountain (Temp),Customer,,,5
+22156212,2019-03-28 13:52:13.000000 UTC,2019-03-28 14:19:53.000000 UTC,0:27:40,754,1660.0,255,Indiana Ave & Roosevelt Rd,2,Buckingham Fountain (Temp),Customer,,,5
+22159730,2019-03-28 17:44:02.000000 UTC,2019-03-28 18:29:14.000000 UTC,0:45:12,2352,2712.0,255,Indiana Ave & Roosevelt Rd,2,Buckingham Fountain (Temp),Customer,,,5
+22159820,2019-03-28 17:47:50.000000 UTC,2019-03-28 18:29:14.000000 UTC,0:41:24,1854,2484.0,255,Indiana Ave & Roosevelt Rd,2,Buckingham Fountain (Temp),Customer,,,5
+22159834,2019-03-28 17:48:14.000000 UTC,2019-03-29 13:48:38.000000 UTC,20:00:24,2357,72024.0,255,Indiana Ave & Roosevelt Rd,2,Buckingham Fountain (Temp),Customer,,,6
+22159843,2019-03-28 17:48:30.000000 UTC,2019-03-28 18:28:20.000000 UTC,0:39:50,6050,2390.0,255,Indiana Ave & Roosevelt Rd,2,Buckingham Fountain (Temp),Customer,,,5
+22159853,2019-03-28 17:48:54.000000 UTC,2019-03-28 18:29:14.000000 UTC,0:40:20,6193,2420.0,255,Indiana Ave & Roosevelt Rd,2,Buckingham Fountain (Temp),Customer,,,5
+22160990,2019-03-28 19:17:51.000000 UTC,2019-03-28 19:30:31.000000 UTC,0:12:40,6385,760.0,255,Indiana Ave & Roosevelt Rd,2,Buckingham Fountain (Temp),Subscriber,Male,1975,5
+21752486,2019-01-03 15:20:25.000000 UTC,2019-01-03 15:54:00.000000 UTC,0:33:35,3335,2015.0,284,Michigan Ave & Jackson Blvd,2,Buckingham Fountain (Temp),Customer,,,5
+21752513,2019-01-03 15:25:09.000000 UTC,2019-01-03 15:53:45.000000 UTC,0:28:36,6439,1716.0,284,Michigan Ave & Jackson Blvd,2,Buckingham Fountain (Temp),Customer,,,5
+21752515,2019-01-03 15:25:22.000000 UTC,2019-01-03 15:54:37.000000 UTC,0:29:15,5144,1755.0,284,Michigan Ave & Jackson Blvd,2,Buckingham Fountain (Temp),Customer,,,5
+21752542,2019-01-03 15:30:19.000000 UTC,2019-01-03 15:53:52.000000 UTC,0:23:33,2786,1413.0,284,Michigan Ave & Jackson Blvd,2,Buckingham Fountain (Temp),Customer,,,5
+21758729,2019-01-04 13:06:21.000000 UTC,2019-01-04 14:17:01.000000 UTC,1:10:40,2354,4240.0,284,Michigan Ave & Jackson Blvd,2,Buckingham Fountain (Temp),Customer,,,6
+21758731,2019-01-04 13:06:44.000000 UTC,2019-01-04 14:16:45.000000 UTC,1:10:01,57,4201.0,284,Michigan Ave & Jackson Blvd,2,Buckingham Fountain (Temp),Customer,,,6
+21768253,2019-01-05 16:12:57.000000 UTC,2019-01-05 16:40:00.000000 UTC,0:27:03,5401,1623.0,284,Michigan Ave & Jackson Blvd,2,Buckingham Fountain (Temp),Customer,,,7
+21956408,2019-02-22 17:33:12.000000 UTC,2019-02-22 17:43:21.000000 UTC,0:10:09,2126,609.0,284,Michigan Ave & Jackson Blvd,2,Buckingham Fountain (Temp),Subscriber,Male,1990,6
+21956414,2019-02-22 17:33:24.000000 UTC,2019-02-22 17:43:28.000000 UTC,0:10:04,4236,604.0,284,Michigan Ave & Jackson Blvd,2,Buckingham Fountain (Temp),Subscriber,Female,1990,6
+22066353,2019-03-16 16:24:04.000000 UTC,2019-03-16 17:33:51.000000 UTC,1:09:47,5689,4187.0,284,Michigan Ave & Jackson Blvd,2,Buckingham Fountain (Temp),Customer,,,7
+22066701,2019-03-16 17:14:36.000000 UTC,2019-03-16 17:46:51.000000 UTC,0:32:15,5440,1935.0,284,Michigan Ave & Jackson Blvd,2,Buckingham Fountain (Temp),Customer,,,7
+21930062,2019-02-16 12:55:02.000000 UTC,2019-02-16 13:32:37.000000 UTC,0:37:35,1409,2255.0,299,Halsted St & Roscoe St,2,Buckingham Fountain (Temp),Subscriber,Male,1993,7
+22113253,2019-03-23 07:02:48.000000 UTC,2019-03-23 08:16:01.000000 UTC,1:13:13,860,4393.0,313,Lakeview Ave & Fullerton Pkwy,2,Buckingham Fountain (Temp),Customer,Female,1998,7
+21785047,2019-01-08 16:56:03.000000 UTC,2019-01-08 17:31:40.000000 UTC,0:35:37,6462,2137.0,320,Loomis St & Lexington St,2,Buckingham Fountain (Temp),Customer,,,3
+22121683,2019-03-24 10:22:13.000000 UTC,2019-03-24 10:44:51.000000 UTC,0:22:38,2916,1358.0,321,Wabash Ave & 9th St,2,Buckingham Fountain (Temp),Subscriber,Female,1979,1
+22015481,2019-03-08 14:13:43.000000 UTC,2019-03-08 16:20:02.000000 UTC,2:06:19,2194,7579.0,324,Stockton Dr & Wrightwood Ave,2,Buckingham Fountain (Temp),Customer,,,6
+22015484,2019-03-08 14:14:10.000000 UTC,2019-03-08 16:20:10.000000 UTC,2:06:00,4226,7560.0,324,Stockton Dr & Wrightwood Ave,2,Buckingham Fountain (Temp),Customer,,,6
+21768701,2019-01-05 16:58:24.000000 UTC,2019-01-05 17:26:26.000000 UTC,0:28:02,2579,1682.0,329,Lake Shore Dr & Diversey Pkwy,2,Buckingham Fountain (Temp),Customer,,,7
+21768702,2019-01-05 16:58:29.000000 UTC,2019-01-05 17:26:29.000000 UTC,0:28:00,5017,1680.0,329,Lake Shore Dr & Diversey Pkwy,2,Buckingham Fountain (Temp),Customer,,,7
+21765866,2019-01-05 13:27:02.000000 UTC,2019-01-05 14:13:58.000000 UTC,0:46:56,392,2816.0,334,Lake Shore Dr & Belmont Ave,2,Buckingham Fountain (Temp),Customer,,,7
+21768674,2019-01-05 16:54:06.000000 UTC,2019-01-05 17:26:26.000000 UTC,0:32:20,5483,1940.0,334,Lake Shore Dr & Belmont Ave,2,Buckingham Fountain (Temp),Subscriber,Male,1993,7
+22141894,2019-03-27 07:50:14.000000 UTC,2019-03-27 08:02:07.000000 UTC,0:11:53,6053,713.0,338,Calumet Ave & 18th St,2,Buckingham Fountain (Temp),Subscriber,Female,1978,4
+22165887,2019-03-29 13:07:01.000000 UTC,2019-03-29 13:25:48.000000 UTC,0:18:47,1126,1127.0,338,Calumet Ave & 18th St,2,Buckingham Fountain (Temp),Customer,,,6
+22165888,2019-03-29 13:07:20.000000 UTC,2019-03-29 13:25:48.000000 UTC,0:18:28,1486,1108.0,338,Calumet Ave & 18th St,2,Buckingham Fountain (Temp),Customer,,,6
+21954320,2019-02-22 13:10:51.000000 UTC,2019-02-22 13:26:53.000000 UTC,0:16:02,156,962.0,341,Adler Planetarium,2,Buckingham Fountain (Temp),Customer,,,6
+21954323,2019-02-22 13:10:56.000000 UTC,2019-02-22 13:26:50.000000 UTC,0:15:54,2887,954.0,341,Adler Planetarium,2,Buckingham Fountain (Temp),Customer,,,6
+21960480,2019-02-24 14:17:17.000000 UTC,2019-02-24 14:29:50.000000 UTC,0:12:33,5441,753.0,341,Adler Planetarium,2,Buckingham Fountain (Temp),Customer,Male,1992,1
+22029242,2019-03-11 17:15:46.000000 UTC,2019-03-11 17:32:21.000000 UTC,0:16:35,2625,995.0,341,Adler Planetarium,2,Buckingham Fountain (Temp),Customer,,,2
+22029245,2019-03-11 17:15:54.000000 UTC,2019-03-11 17:32:15.000000 UTC,0:16:21,3790,981.0,341,Adler Planetarium,2,Buckingham Fountain (Temp),Customer,,,2
+22059652,2019-03-15 15:43:15.000000 UTC,2019-03-15 15:55:25.000000 UTC,0:12:10,5031,730.0,341,Adler Planetarium,2,Buckingham Fountain (Temp),Customer,,,6
+22059655,2019-03-15 15:43:23.000000 UTC,2019-03-15 15:55:43.000000 UTC,0:12:20,6177,740.0,341,Adler Planetarium,2,Buckingham Fountain (Temp),Customer,,,6
+22071443,2019-03-17 16:03:48.000000 UTC,2019-03-17 16:18:29.000000 UTC,0:14:41,2099,881.0,341,Adler Planetarium,2,Buckingham Fountain (Temp),Customer,,,1
+22071445,2019-03-17 16:03:55.000000 UTC,2019-03-17 16:18:41.000000 UTC,0:14:46,719,886.0,341,Adler Planetarium,2,Buckingham Fountain (Temp),Customer,,,1
+22071449,2019-03-17 16:04:11.000000 UTC,2019-03-17 16:18:33.000000 UTC,0:14:22,2851,862.0,341,Adler Planetarium,2,Buckingham Fountain (Temp),Customer,,,1
+22071451,2019-03-17 16:04:24.000000 UTC,2019-03-17 16:18:29.000000 UTC,0:14:05,2272,845.0,341,Adler Planetarium,2,Buckingham Fountain (Temp),Customer,,,1
+22109720,2019-03-22 15:46:22.000000 UTC,2019-03-22 15:57:30.000000 UTC,0:11:08,6247,668.0,341,Adler Planetarium,2,Buckingham Fountain (Temp),Subscriber,Female,1997,6
+22167580,2019-03-29 16:05:38.000000 UTC,2019-03-29 16:16:56.000000 UTC,0:11:18,3342,678.0,341,Adler Planetarium,2,Buckingham Fountain (Temp),Customer,,,6
+22167585,2019-03-29 16:05:59.000000 UTC,2019-03-29 16:16:56.000000 UTC,0:10:57,6193,657.0,341,Adler Planetarium,2,Buckingham Fountain (Temp),Customer,,,6
+22052514,2019-03-14 16:07:51.000000 UTC,2019-03-14 17:19:59.000000 UTC,1:12:08,406,4328.0,423,University Ave & 57th St,2,Buckingham Fountain (Temp),Customer,,,5
+22052519,2019-03-14 16:08:11.000000 UTC,2019-03-14 17:19:53.000000 UTC,1:11:42,6363,4302.0,423,University Ave & 57th St,2,Buckingham Fountain (Temp),Customer,,,5
+22052572,2019-03-14 16:11:24.000000 UTC,2019-03-14 17:19:59.000000 UTC,1:08:35,1318,4115.0,423,University Ave & 57th St,2,Buckingham Fountain (Temp),Customer,,,5
+22109249,2019-03-22 14:47:59.000000 UTC,2019-03-22 15:26:23.000000 UTC,0:38:24,5558,2304.0,454,Broadway & Granville Ave,2,Buckingham Fountain (Temp),Subscriber,Male,1992,6
+22035411,2019-03-12 13:50:18.000000 UTC,2019-03-12 14:26:52.000000 UTC,0:36:34,65,2194.0,623,Michigan Ave & 8th St,2,Buckingham Fountain (Temp),Customer,,,3
+22035414,2019-03-12 13:50:36.000000 UTC,2019-03-12 14:27:04.000000 UTC,0:36:28,399,2188.0,623,Michigan Ave & 8th St,2,Buckingham Fountain (Temp),Customer,,,3
+22121138,2019-03-24 08:11:48.000000 UTC,2019-03-24 08:18:49.000000 UTC,0:07:01,3907,421.0,623,Michigan Ave & 8th St,2,Buckingham Fountain (Temp),Customer,Male,1986,1
+21771576,2019-01-06 12:19:21.000000 UTC,2019-01-06 12:26:05.000000 UTC,0:06:44,5017,404.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,1
+21844068,2019-01-21 14:12:15.000000 UTC,2019-01-21 14:20:49.000000 UTC,0:08:34,550,514.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Subscriber,Male,1989,2
+21844070,2019-01-21 14:12:37.000000 UTC,2019-01-21 14:20:55.000000 UTC,0:08:18,6208,498.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Subscriber,Female,1987,2
+21870804,2019-02-03 14:06:28.000000 UTC,2019-02-03 14:24:05.000000 UTC,0:17:37,3719,1057.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,1
+21870805,2019-02-03 14:06:42.000000 UTC,2019-02-03 14:23:31.000000 UTC,0:16:49,1440,1009.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,1
+21898249,2019-02-08 13:34:34.000000 UTC,2019-02-08 13:50:53.000000 UTC,0:16:19,2503,979.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,6
+21898251,2019-02-08 13:34:38.000000 UTC,2019-02-08 13:50:53.000000 UTC,0:16:15,3671,975.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,6
+21901578,2019-02-09 13:59:22.000000 UTC,2019-02-09 14:11:53.000000 UTC,0:12:31,5612,751.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,7
+21901580,2019-02-09 13:59:30.000000 UTC,2019-02-09 14:11:48.000000 UTC,0:12:18,3101,738.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,7
+21926787,2019-02-15 15:03:21.000000 UTC,2019-02-15 15:15:01.000000 UTC,0:11:40,4017,700.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,6
+21926790,2019-02-15 15:03:41.000000 UTC,2019-02-15 15:14:56.000000 UTC,0:11:15,716,675.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,6
+21929358,2019-02-16 09:56:44.000000 UTC,2019-02-16 10:04:41.000000 UTC,0:07:57,2181,477.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,7
+21929359,2019-02-16 09:56:48.000000 UTC,2019-02-16 10:04:50.000000 UTC,0:08:02,104,482.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,7
+21954391,2019-02-22 13:27:13.000000 UTC,2019-02-22 13:42:43.000000 UTC,0:15:30,391,930.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,6
+21954396,2019-02-22 13:27:48.000000 UTC,2019-02-22 13:42:26.000000 UTC,0:14:38,2739,878.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,6
+21966570,2019-02-26 07:29:30.000000 UTC,2019-02-26 07:33:54.000000 UTC,0:04:24,6002,264.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Subscriber,Male,1988,3
+21998543,2019-03-05 12:30:35.000000 UTC,2019-03-05 12:56:27.000000 UTC,0:25:52,3789,1552.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,3
+22015976,2019-03-08 15:34:54.000000 UTC,2019-03-08 15:41:17.000000 UTC,0:06:23,2103,383.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,6
+22019478,2019-03-09 11:03:06.000000 UTC,2019-03-09 11:16:28.000000 UTC,0:13:22,2796,802.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,7
+22019481,2019-03-09 11:03:27.000000 UTC,2019-03-09 11:16:19.000000 UTC,0:12:52,4896,772.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,7
+22021677,2019-03-10 10:29:07.000000 UTC,2019-03-10 10:53:07.000000 UTC,0:24:00,2437,1440.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,1
+22021679,2019-03-10 10:29:25.000000 UTC,2019-03-10 10:53:07.000000 UTC,0:23:42,1062,1422.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,1
+22027019,2019-03-11 12:39:04.000000 UTC,2019-03-11 13:05:40.000000 UTC,0:26:36,288,1596.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,2
+22027023,2019-03-11 12:39:15.000000 UTC,2019-03-11 13:05:40.000000 UTC,0:26:25,5177,1585.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,2
+22042876,2019-03-13 11:36:54.000000 UTC,2019-03-13 12:03:18.000000 UTC,0:26:24,4398,1584.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,Female,1999,4
+22042896,2019-03-13 11:40:53.000000 UTC,2019-03-13 12:03:24.000000 UTC,0:22:31,4529,1351.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,4
+22070112,2019-03-17 13:53:06.000000 UTC,2019-03-17 14:05:05.000000 UTC,0:11:59,2928,719.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,1
+22070116,2019-03-17 13:53:14.000000 UTC,2019-03-17 14:04:50.000000 UTC,0:11:36,1959,696.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,1
+22070151,2019-03-17 13:56:17.000000 UTC,2019-03-17 14:14:29.000000 UTC,0:18:12,6357,1092.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,1
+22085107,2019-03-19 12:35:04.000000 UTC,2019-03-19 12:46:41.000000 UTC,0:11:37,5857,697.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,Male,1999,3
+22085119,2019-03-19 12:36:57.000000 UTC,2019-03-19 12:46:41.000000 UTC,0:09:44,4064,584.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,Male,1998,3
+22164473,2019-03-29 09:42:42.000000 UTC,2019-03-29 10:01:58.000000 UTC,0:19:16,1656,1156.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,6
+22164476,2019-03-29 09:42:57.000000 UTC,2019-03-29 10:02:08.000000 UTC,0:19:11,2198,1151.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,6
+22164480,2019-03-29 09:43:14.000000 UTC,2019-03-29 10:01:58.000000 UTC,0:18:44,754,1124.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Customer,,,6
+22166885,2019-03-29 15:05:40.000000 UTC,2019-03-29 15:17:45.000000 UTC,0:12:05,1126,725.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Subscriber,Female,1983,6
+22166887,2019-03-29 15:05:47.000000 UTC,2019-03-29 15:17:53.000000 UTC,0:12:06,1627,726.0,2,Buckingham Fountain (Temp),3,Shedd Aquarium,Subscriber,Male,1984,6
+21759887,2019-01-04 15:47:03.000000 UTC,2019-01-04 16:13:56.000000 UTC,0:26:53,4213,1613.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,6
+21759890,2019-01-04 15:47:08.000000 UTC,2019-01-04 16:14:05.000000 UTC,0:26:57,1595,1617.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,6
+21760387,2019-01-04 16:23:37.000000 UTC,2019-01-04 16:49:11.000000 UTC,0:25:34,1647,1534.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,6
+21768920,2019-01-05 17:23:34.000000 UTC,2019-01-05 19:23:23.000000 UTC,1:59:49,4282,7189.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,7
+21768925,2019-01-05 17:24:40.000000 UTC,2019-01-05 19:23:30.000000 UTC,1:58:50,4653,7130.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,7
+21769095,2019-01-05 17:51:31.000000 UTC,2019-01-05 17:53:50.000000 UTC,0:02:19,673,139.0,3,Shedd Aquarium,3,Shedd Aquarium,Subscriber,Male,1994,7
+21769112,2019-01-05 17:54:06.000000 UTC,2019-01-05 17:55:10.000000 UTC,0:01:04,539,64.0,3,Shedd Aquarium,3,Shedd Aquarium,Subscriber,Male,1994,7
+21772226,2019-01-06 13:57:29.000000 UTC,2019-01-06 14:02:37.000000 UTC,0:05:08,3090,308.0,3,Shedd Aquarium,3,Shedd Aquarium,Subscriber,Female,1993,1
+21772256,2019-01-06 14:02:20.000000 UTC,2019-01-06 14:04:08.000000 UTC,0:01:48,5420,108.0,3,Shedd Aquarium,3,Shedd Aquarium,Subscriber,Male,1983,1
+21773107,2019-01-06 16:01:05.000000 UTC,2019-01-06 16:28:44.000000 UTC,0:27:39,4503,1659.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,1
+21784904,2019-01-08 16:47:12.000000 UTC,2019-01-08 17:11:09.000000 UTC,0:23:57,716,1437.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,3
+21784911,2019-01-08 16:47:30.000000 UTC,2019-01-08 17:11:09.000000 UTC,0:23:39,6229,1419.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,3
+21784917,2019-01-08 16:47:45.000000 UTC,2019-01-08 17:10:57.000000 UTC,0:23:12,3368,1392.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,3
+21930860,2019-02-16 16:36:44.000000 UTC,2019-02-16 16:49:47.000000 UTC,0:13:03,5485,783.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,7
+21930865,2019-02-16 16:38:51.000000 UTC,2019-02-16 16:47:37.000000 UTC,0:08:46,2820,526.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,7
+21930893,2019-02-16 16:49:46.000000 UTC,2019-02-16 16:52:35.000000 UTC,0:02:49,2820,169.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,7
+21930894,2019-02-16 16:50:09.000000 UTC,2019-02-16 16:56:56.000000 UTC,0:06:47,6127,407.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,7
+21930896,2019-02-16 16:50:28.000000 UTC,2019-02-16 16:56:33.000000 UTC,0:06:05,716,365.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,7
+21930897,2019-02-16 16:50:44.000000 UTC,2019-02-16 16:52:51.000000 UTC,0:02:07,4949,127.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,7
+21930898,2019-02-16 16:50:52.000000 UTC,2019-02-16 16:56:33.000000 UTC,0:05:41,5485,341.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,7
+21942654,2019-02-20 12:40:43.000000 UTC,2019-02-20 12:41:44.000000 UTC,0:01:01,5940,61.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,4
+22011490,2019-03-07 17:58:37.000000 UTC,2019-03-07 18:15:53.000000 UTC,0:17:16,3789,1036.0,3,Shedd Aquarium,3,Shedd Aquarium,Subscriber,Male,1987,5
+22027202,2019-03-11 13:12:27.000000 UTC,2019-03-11 14:57:08.000000 UTC,1:44:41,3705,6281.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,2
+22027756,2019-03-11 15:09:26.000000 UTC,2019-03-11 15:36:54.000000 UTC,0:27:28,4841,1648.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,2
+22027757,2019-03-11 15:09:33.000000 UTC,2019-03-11 15:36:54.000000 UTC,0:27:21,288,1641.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,2
+22027758,2019-03-11 15:09:37.000000 UTC,2019-03-11 15:36:12.000000 UTC,0:26:35,5409,1595.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,2
+22027761,2019-03-11 15:09:57.000000 UTC,2019-03-11 15:37:20.000000 UTC,0:27:23,6162,1643.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,2
+22028362,2019-03-11 16:24:29.000000 UTC,2019-03-11 16:45:05.000000 UTC,0:20:36,288,1236.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,2
+22028394,2019-03-11 16:27:42.000000 UTC,2019-03-11 16:41:23.000000 UTC,0:13:41,6162,821.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,2
+22065789,2019-03-16 15:04:40.000000 UTC,2019-03-16 15:11:37.000000 UTC,0:06:57,3239,417.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,7
+22065794,2019-03-16 15:04:49.000000 UTC,2019-03-16 15:11:20.000000 UTC,0:06:31,4216,391.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,7
+22070759,2019-03-17 14:48:22.000000 UTC,2019-03-17 14:54:31.000000 UTC,0:06:09,197,369.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,1
+22070763,2019-03-17 14:48:38.000000 UTC,2019-03-17 14:54:31.000000 UTC,0:05:53,3038,353.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,1
+22070765,2019-03-17 14:48:41.000000 UTC,2019-03-17 14:54:43.000000 UTC,0:06:02,1397,362.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,1
+22071676,2019-03-17 16:34:30.000000 UTC,2019-03-17 17:03:25.000000 UTC,0:28:55,1794,1735.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,1
+22071683,2019-03-17 16:35:00.000000 UTC,2019-03-17 17:03:11.000000 UTC,0:28:11,652,1691.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,1
+22076862,2019-03-18 13:52:59.000000 UTC,2019-03-18 13:56:47.000000 UTC,0:03:48,4098,228.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,2
+22077365,2019-03-18 15:21:09.000000 UTC,2019-03-18 15:24:37.000000 UTC,0:03:28,3533,208.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,2
+22099817,2019-03-21 11:49:31.000000 UTC,2019-03-21 12:14:45.000000 UTC,0:25:14,5017,1514.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22100475,2019-03-21 13:52:57.000000 UTC,2019-03-21 14:05:05.000000 UTC,0:12:08,5017,728.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22107465,2019-03-22 10:02:23.000000 UTC,2019-03-22 10:09:36.000000 UTC,0:07:13,2435,433.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,6
+22108873,2019-03-22 13:40:16.000000 UTC,2019-03-22 13:46:56.000000 UTC,0:06:40,1519,400.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,6
+22109167,2019-03-22 14:11:20.000000 UTC,2019-03-22 14:29:09.000000 UTC,0:17:49,2435,1069.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,6
+22109168,2019-03-22 14:11:22.000000 UTC,2019-03-22 14:28:44.000000 UTC,0:17:22,3234,1042.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,6
+22123836,2019-03-24 15:28:15.000000 UTC,2019-03-24 16:00:49.000000 UTC,0:32:34,2024,1954.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,1
+22123838,2019-03-24 15:28:34.000000 UTC,2019-03-24 16:00:01.000000 UTC,0:31:27,2406,1887.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,1
+22123857,2019-03-24 15:31:52.000000 UTC,2019-03-24 15:50:37.000000 UTC,0:18:45,1779,1125.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,1
+22123858,2019-03-24 15:32:04.000000 UTC,2019-03-24 15:50:50.000000 UTC,0:18:46,7,1126.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,1
+22123863,2019-03-24 15:32:15.000000 UTC,2019-03-24 15:50:56.000000 UTC,0:18:41,4598,1121.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,1
+22123866,2019-03-24 15:32:22.000000 UTC,2019-03-24 15:50:56.000000 UTC,0:18:34,5764,1114.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,1
+22128854,2019-03-25 15:44:15.000000 UTC,2019-03-25 16:01:00.000000 UTC,0:16:45,2673,1005.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,2
+22145280,2019-03-27 14:38:36.000000 UTC,2019-03-27 14:43:02.000000 UTC,0:04:26,6409,266.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,Female,1981,4
+22149017,2019-03-27 18:03:31.000000 UTC,2019-03-27 18:25:01.000000 UTC,0:21:30,4089,1290.0,3,Shedd Aquarium,3,Shedd Aquarium,Subscriber,Male,1970,4
+22150016,2019-03-27 19:00:31.000000 UTC,2019-03-27 19:01:53.000000 UTC,0:01:22,4089,82.0,3,Shedd Aquarium,3,Shedd Aquarium,Subscriber,Female,1972,4
+22154979,2019-03-28 11:53:34.000000 UTC,2019-03-28 11:58:59.000000 UTC,0:05:25,3502,325.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22155577,2019-03-28 12:53:12.000000 UTC,2019-03-28 13:46:41.000000 UTC,0:53:29,4509,3209.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,Female,1975,5
+22155624,2019-03-28 12:57:09.000000 UTC,2019-03-28 13:09:53.000000 UTC,0:12:44,3825,764.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22155707,2019-03-28 13:03:22.000000 UTC,2019-03-28 13:46:41.000000 UTC,0:43:19,4100,2599.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22155710,2019-03-28 13:03:45.000000 UTC,2019-03-28 13:47:10.000000 UTC,0:43:25,1973,2605.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22155858,2019-03-28 13:14:19.000000 UTC,2019-03-28 14:06:11.000000 UTC,0:51:52,1486,3112.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22155868,2019-03-28 13:14:28.000000 UTC,2019-03-28 14:06:35.000000 UTC,0:52:07,2549,3127.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22155869,2019-03-28 13:14:49.000000 UTC,2019-03-28 14:06:11.000000 UTC,0:51:22,3746,3082.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22156174,2019-03-28 13:49:31.000000 UTC,2019-03-28 14:07:09.000000 UTC,0:17:38,1973,1058.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22156537,2019-03-28 14:29:46.000000 UTC,2019-03-28 14:47:56.000000 UTC,0:18:10,4746,1090.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22156628,2019-03-28 14:39:20.000000 UTC,2019-03-28 14:58:21.000000 UTC,0:19:01,3190,1141.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22156632,2019-03-28 14:39:45.000000 UTC,2019-03-28 14:58:28.000000 UTC,0:18:43,4705,1123.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22156754,2019-03-28 14:53:12.000000 UTC,2019-03-28 14:54:30.000000 UTC,0:01:18,4746,78.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22157079,2019-03-28 15:25:25.000000 UTC,2019-03-28 15:57:21.000000 UTC,0:31:56,4509,1916.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22157088,2019-03-28 15:26:15.000000 UTC,2019-03-28 15:57:37.000000 UTC,0:31:22,3703,1882.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22157232,2019-03-28 15:38:43.000000 UTC,2019-03-28 15:52:24.000000 UTC,0:13:41,321,821.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22157233,2019-03-28 15:38:55.000000 UTC,2019-03-28 15:52:04.000000 UTC,0:13:09,4746,789.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22157237,2019-03-28 15:39:00.000000 UTC,2019-03-28 15:52:24.000000 UTC,0:13:24,1713,804.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22157249,2019-03-28 15:39:37.000000 UTC,2019-03-28 15:52:04.000000 UTC,0:12:27,2656,747.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,,,5
+22172684,2019-03-30 13:35:02.000000 UTC,2019-03-30 13:38:53.000000 UTC,0:03:51,393,231.0,3,Shedd Aquarium,3,Shedd Aquarium,Customer,Male,1980,7
+21929547,2019-02-16 10:48:05.000000 UTC,2019-02-16 10:55:37.000000 UTC,0:07:32,391,452.0,4,Burnham Harbor,3,Shedd Aquarium,Subscriber,Male,1977,7
+22077140,2019-03-18 14:46:00.000000 UTC,2019-03-18 15:19:30.000000 UTC,0:33:30,737,2010.0,4,Burnham Harbor,3,Shedd Aquarium,Subscriber,Male,1981,2
+22122472,2019-03-24 12:14:42.000000 UTC,2019-03-24 12:31:38.000000 UTC,0:16:56,2406,1016.0,4,Burnham Harbor,3,Shedd Aquarium,Customer,,,1
+22122474,2019-03-24 12:14:49.000000 UTC,2019-03-24 12:31:48.000000 UTC,0:16:59,4906,1019.0,4,Burnham Harbor,3,Shedd Aquarium,Customer,,,1
+22122476,2019-03-24 12:14:55.000000 UTC,2019-03-24 12:31:42.000000 UTC,0:16:47,5764,1007.0,4,Burnham Harbor,3,Shedd Aquarium,Customer,,,1
+21751716,2019-01-03 12:43:19.000000 UTC,2019-01-03 12:50:57.000000 UTC,0:07:38,5729,458.0,5,State St & Harrison St,3,Shedd Aquarium,Subscriber,Male,1981,5
+21766566,2019-01-05 14:17:20.000000 UTC,2019-01-05 14:53:55.000000 UTC,0:36:35,5117,2195.0,5,State St & Harrison St,3,Shedd Aquarium,Subscriber,Male,1994,7
+22018738,2019-03-09 07:53:44.000000 UTC,2019-03-09 08:02:00.000000 UTC,0:08:16,2783,496.0,5,State St & Harrison St,3,Shedd Aquarium,Subscriber,Male,1993,7
+22074073,2019-03-18 08:48:23.000000 UTC,2019-03-18 08:55:31.000000 UTC,0:07:08,1831,428.0,5,State St & Harrison St,3,Shedd Aquarium,Subscriber,Male,1970,2
+22164950,2019-03-29 11:01:22.000000 UTC,2019-03-29 11:53:01.000000 UTC,0:51:39,5140,3099.0,5,State St & Harrison St,3,Shedd Aquarium,Customer,,,6
+22164952,2019-03-29 11:01:33.000000 UTC,2019-03-29 11:52:57.000000 UTC,0:51:24,914,3084.0,5,State St & Harrison St,3,Shedd Aquarium,Customer,,,6
+22164965,2019-03-29 11:03:17.000000 UTC,2019-03-29 11:53:30.000000 UTC,0:50:13,3304,3013.0,5,State St & Harrison St,3,Shedd Aquarium,Customer,,,6
+21751144,2019-01-03 10:15:43.000000 UTC,2019-01-03 10:28:43.000000 UTC,0:13:00,6189,780.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,Male,1989,5
+21751149,2019-01-03 10:16:22.000000 UTC,2019-01-03 10:29:03.000000 UTC,0:12:41,4939,761.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,Female,1988,5
+21772557,2019-01-06 14:48:17.000000 UTC,2019-01-06 14:58:05.000000 UTC,0:09:48,3371,588.0,6,Dusable Harbor,3,Shedd Aquarium,Subscriber,Female,1992,1
+21870443,2019-02-03 12:37:50.000000 UTC,2019-02-03 12:51:33.000000 UTC,0:13:43,4773,823.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,1
+21937537,2019-02-19 09:50:27.000000 UTC,2019-02-19 09:59:01.000000 UTC,0:08:34,4494,514.0,6,Dusable Harbor,3,Shedd Aquarium,Subscriber,Male,1986,3
+21973127,2019-02-27 09:54:36.000000 UTC,2019-02-27 10:02:42.000000 UTC,0:08:06,828,486.0,6,Dusable Harbor,3,Shedd Aquarium,Subscriber,Male,1986,4
+22003292,2019-03-06 11:49:46.000000 UTC,2019-03-06 11:59:38.000000 UTC,0:09:52,1277,592.0,6,Dusable Harbor,3,Shedd Aquarium,Subscriber,Male,1986,4
+22037086,2019-03-12 16:43:24.000000 UTC,2019-03-12 16:58:54.000000 UTC,0:15:30,3421,930.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,Male,1994,3
+22047760,2019-03-13 20:42:04.000000 UTC,2019-03-13 21:02:16.000000 UTC,0:20:12,276,1212.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,4
+22047763,2019-03-13 20:42:31.000000 UTC,2019-03-13 21:02:05.000000 UTC,0:19:34,4379,1174.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,4
+22064529,2019-03-16 12:13:48.000000 UTC,2019-03-16 12:27:08.000000 UTC,0:13:20,745,800.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,7
+22064532,2019-03-16 12:13:56.000000 UTC,2019-03-16 12:27:13.000000 UTC,0:13:17,2983,797.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,7
+22065626,2019-03-16 14:41:06.000000 UTC,2019-03-16 14:57:37.000000 UTC,0:16:31,4216,991.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,7
+22065628,2019-03-16 14:41:21.000000 UTC,2019-03-16 14:59:04.000000 UTC,0:17:43,3239,1063.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,7
+22066145,2019-03-16 15:53:47.000000 UTC,2019-03-16 16:16:18.000000 UTC,0:22:31,6385,1351.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,7
+22075867,2019-03-18 11:12:05.000000 UTC,2019-03-18 11:44:04.000000 UTC,0:31:59,4061,1919.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,Female,1995,2
+22075870,2019-03-18 11:13:05.000000 UTC,2019-03-18 11:44:04.000000 UTC,0:30:59,2002,1859.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,Female,1997,2
+22075871,2019-03-18 11:13:10.000000 UTC,2019-03-18 11:44:04.000000 UTC,0:30:54,4529,1854.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,Female,1996,2
+22077823,2019-03-18 16:14:12.000000 UTC,2019-03-18 16:32:57.000000 UTC,0:18:45,4062,1125.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,2
+22077909,2019-03-18 16:20:49.000000 UTC,2019-03-18 16:34:00.000000 UTC,0:13:11,4787,791.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,2
+22117221,2019-03-23 14:47:51.000000 UTC,2019-03-23 15:21:55.000000 UTC,0:34:04,2460,2044.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,7
+22117225,2019-03-23 14:48:14.000000 UTC,2019-03-23 15:21:59.000000 UTC,0:33:45,748,2025.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,7
+22123781,2019-03-24 15:16:04.000000 UTC,2019-03-24 15:33:25.000000 UTC,0:17:21,357,1041.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,1
+22123783,2019-03-24 15:16:43.000000 UTC,2019-03-24 15:33:33.000000 UTC,0:16:50,3600,1010.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,1
+22135496,2019-03-26 12:05:39.000000 UTC,2019-03-26 12:28:19.000000 UTC,0:22:40,1339,1360.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,3
+22135499,2019-03-26 12:06:30.000000 UTC,2019-03-26 12:28:19.000000 UTC,0:21:49,1874,1309.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,3
+22135500,2019-03-26 12:06:33.000000 UTC,2019-03-26 12:28:22.000000 UTC,0:21:49,2290,1309.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,3
+22136316,2019-03-26 14:10:18.000000 UTC,2019-03-26 14:36:04.000000 UTC,0:25:46,4550,1546.0,6,Dusable Harbor,3,Shedd Aquarium,Customer,,,3
+21772005,2019-01-06 13:20:42.000000 UTC,2019-01-06 13:30:10.000000 UTC,0:09:28,3407,568.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Subscriber,Male,1975,1
+21812554,2019-01-14 12:41:57.000000 UTC,2019-01-14 13:13:15.000000 UTC,0:31:18,54,1878.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Customer,,,2
+21812557,2019-01-14 12:42:31.000000 UTC,2019-01-14 13:12:55.000000 UTC,0:30:24,597,1824.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Customer,,,2
+21812560,2019-01-14 12:43:08.000000 UTC,2019-01-14 13:12:55.000000 UTC,0:29:47,4399,1787.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Customer,,,2
+21900906,2019-02-09 10:53:52.000000 UTC,2019-02-09 11:22:01.000000 UTC,0:28:09,716,1689.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Customer,,,7
+21900907,2019-02-09 10:53:52.000000 UTC,2019-02-09 11:22:01.000000 UTC,0:28:09,4380,1689.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Customer,,,7
+21962879,2019-02-25 11:34:48.000000 UTC,2019-02-25 11:49:19.000000 UTC,0:14:31,5345,871.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Customer,,,2
+21966827,2019-02-26 07:57:03.000000 UTC,2019-02-26 08:07:23.000000 UTC,0:10:20,1603,620.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Subscriber,Male,1987,3
+21974139,2019-02-27 14:32:33.000000 UTC,2019-02-27 14:46:44.000000 UTC,0:14:11,2505,851.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Subscriber,Female,1992,4
+21987090,2019-03-01 17:45:45.000000 UTC,2019-03-01 18:07:15.000000 UTC,0:21:30,5607,1290.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Subscriber,Male,1984,6
+21992610,2019-03-03 17:05:36.000000 UTC,2019-03-03 17:34:01.000000 UTC,0:28:25,3126,1705.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Subscriber,Female,1989,1
+22130798,2019-03-25 18:00:50.000000 UTC,2019-03-25 18:22:23.000000 UTC,0:21:33,3246,1293.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Subscriber,Male,1988,2
+22130814,2019-03-25 18:01:59.000000 UTC,2019-03-25 18:22:14.000000 UTC,0:20:15,1425,1215.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Subscriber,Female,1989,2
+22136563,2019-03-26 14:53:02.000000 UTC,2019-03-26 15:09:55.000000 UTC,0:16:53,2099,1013.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Subscriber,Male,1988,3
+22144766,2019-03-27 13:24:00.000000 UTC,2019-03-27 13:48:35.000000 UTC,0:24:35,5492,1475.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Subscriber,Female,1991,4
+22171655,2019-03-30 10:54:50.000000 UTC,2019-03-30 11:18:59.000000 UTC,0:24:09,533,1449.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Customer,,,7
+22171659,2019-03-30 10:55:26.000000 UTC,2019-03-30 11:18:50.000000 UTC,0:23:24,4319,1404.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Customer,,,7
+22176504,2019-03-31 13:54:06.000000 UTC,2019-03-31 14:14:00.000000 UTC,0:19:54,3149,1194.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Subscriber,Male,1986,1
+22176506,2019-03-31 13:54:46.000000 UTC,2019-03-31 14:14:18.000000 UTC,0:19:32,3211,1172.0,7,Field Blvd & South Water St,3,Shedd Aquarium,Subscriber,Female,1988,1
+21881636,2019-02-05 12:05:11.000000 UTC,2019-02-05 12:18:35.000000 UTC,0:13:24,643,804.0,14,Morgan St & 18th St,3,Shedd Aquarium,Subscriber,Male,1988,3
+21886858,2019-02-06 09:21:00.000000 UTC,2019-02-06 09:33:54.000000 UTC,0:12:54,2602,774.0,14,Morgan St & 18th St,3,Shedd Aquarium,Subscriber,Male,1988,4
+21911081,2019-02-12 12:03:16.000000 UTC,2019-02-12 12:16:21.000000 UTC,0:13:05,4771,785.0,14,Morgan St & 18th St,3,Shedd Aquarium,Subscriber,Male,1988,3
+21914040,2019-02-13 09:08:21.000000 UTC,2019-02-13 09:23:55.000000 UTC,0:15:34,537,934.0,14,Morgan St & 18th St,3,Shedd Aquarium,Subscriber,Male,1988,4
+21984051,2019-03-01 09:18:31.000000 UTC,2019-03-01 09:30:46.000000 UTC,0:12:15,2272,735.0,14,Morgan St & 18th St,3,Shedd Aquarium,Subscriber,Male,1988,6
+21998436,2019-03-05 12:01:23.000000 UTC,2019-03-05 12:13:30.000000 UTC,0:12:07,5607,727.0,14,Morgan St & 18th St,3,Shedd Aquarium,Subscriber,Male,1988,3
+22100538,2019-03-21 14:05:33.000000 UTC,2019-03-21 14:18:56.000000 UTC,0:13:23,1401,803.0,14,Morgan St & 18th St,3,Shedd Aquarium,Subscriber,Male,1988,5
+21938268,2019-02-19 13:21:11.000000 UTC,2019-02-19 13:41:37.000000 UTC,0:20:26,2205,1226.0,15,Racine Ave & 18th St,3,Shedd Aquarium,Subscriber,Female,1989,3
+21783106,2019-01-08 12:22:48.000000 UTC,2019-01-08 12:39:05.000000 UTC,0:16:17,2406,977.0,18,Wacker Dr & Washington St,3,Shedd Aquarium,Subscriber,Male,1982,3
+22131232,2019-03-25 18:35:55.000000 UTC,2019-03-25 18:54:31.000000 UTC,0:18:36,4103,1116.0,19,Loomis St & Taylor St (*),3,Shedd Aquarium,Subscriber,Female,1972,2
+22149216,2019-03-27 18:12:34.000000 UTC,2019-03-27 18:29:22.000000 UTC,0:16:48,4202,1008.0,19,Loomis St & Taylor St (*),3,Shedd Aquarium,Subscriber,Female,1972,4
+22171127,2019-03-30 09:27:50.000000 UTC,2019-03-30 09:43:58.000000 UTC,0:16:08,6185,968.0,19,Loomis St & Taylor St (*),3,Shedd Aquarium,Subscriber,Female,1972,7
+21771091,2019-01-06 11:01:39.000000 UTC,2019-01-06 11:23:21.000000 UTC,0:21:42,5420,1302.0,24,Fairbanks Ct & Grand Ave,3,Shedd Aquarium,Subscriber,Female,1954,1
+21844796,2019-01-21 18:26:05.000000 UTC,2019-01-21 18:49:14.000000 UTC,0:23:09,4404,1389.0,24,Fairbanks Ct & Grand Ave,3,Shedd Aquarium,Subscriber,Male,1989,2
+22034790,2019-03-12 12:14:22.000000 UTC,2019-03-12 12:35:01.000000 UTC,0:20:39,507,1239.0,24,Fairbanks Ct & Grand Ave,3,Shedd Aquarium,Customer,,,3
+22034792,2019-03-12 12:14:33.000000 UTC,2019-03-12 12:35:01.000000 UTC,0:20:28,1083,1228.0,24,Fairbanks Ct & Grand Ave,3,Shedd Aquarium,Customer,,,3
+22121442,2019-03-24 09:41:34.000000 UTC,2019-03-24 10:26:52.000000 UTC,0:45:18,949,2718.0,24,Fairbanks Ct & Grand Ave,3,Shedd Aquarium,Customer,,,1
+22121444,2019-03-24 09:41:52.000000 UTC,2019-03-24 10:27:05.000000 UTC,0:45:13,2024,2713.0,24,Fairbanks Ct & Grand Ave,3,Shedd Aquarium,Customer,,,1
+22121446,2019-03-24 09:42:05.000000 UTC,2019-03-24 10:27:00.000000 UTC,0:44:55,2328,2695.0,24,Fairbanks Ct & Grand Ave,3,Shedd Aquarium,Customer,,,1
+22121477,2019-03-24 09:47:15.000000 UTC,2019-03-24 10:25:59.000000 UTC,0:38:44,1285,2324.0,24,Fairbanks Ct & Grand Ave,3,Shedd Aquarium,Customer,,,1
+22134762,2019-03-26 09:53:25.000000 UTC,2019-03-26 10:18:40.000000 UTC,0:25:15,2453,1515.0,24,Fairbanks Ct & Grand Ave,3,Shedd Aquarium,Customer,,,3
+22134764,2019-03-26 09:53:52.000000 UTC,2019-03-26 10:18:57.000000 UTC,0:25:05,6300,1505.0,24,Fairbanks Ct & Grand Ave,3,Shedd Aquarium,Customer,,,3
+22154331,2019-03-28 10:23:46.000000 UTC,2019-03-28 11:11:46.000000 UTC,0:48:00,4100,2880.0,24,Fairbanks Ct & Grand Ave,3,Shedd Aquarium,Customer,,,5
+22154332,2019-03-28 10:23:57.000000 UTC,2019-03-28 11:11:48.000000 UTC,0:47:51,6469,2871.0,24,Fairbanks Ct & Grand Ave,3,Shedd Aquarium,Customer,,,5
+22154333,2019-03-28 10:24:10.000000 UTC,2019-03-28 11:11:39.000000 UTC,0:47:29,4347,2849.0,24,Fairbanks Ct & Grand Ave,3,Shedd Aquarium,Customer,,,5
+22154335,2019-03-28 10:24:28.000000 UTC,2019-03-28 11:12:03.000000 UTC,0:47:35,4120,2855.0,24,Fairbanks Ct & Grand Ave,3,Shedd Aquarium,Customer,,,5
+21768275,2019-01-05 16:15:06.000000 UTC,2019-01-05 16:42:11.000000 UTC,0:27:05,5481,1625.0,25,Michigan Ave & Pearson St,3,Shedd Aquarium,Customer,,,7
+21768277,2019-01-05 16:15:36.000000 UTC,2019-01-05 16:42:17.000000 UTC,0:26:41,57,1601.0,25,Michigan Ave & Pearson St,3,Shedd Aquarium,Customer,,,7
+22070734,2019-03-17 14:46:05.000000 UTC,2019-03-17 15:13:01.000000 UTC,0:26:56,5485,1616.0,25,Michigan Ave & Pearson St,3,Shedd Aquarium,Customer,,,1
+22070743,2019-03-17 14:46:52.000000 UTC,2019-03-17 15:13:06.000000 UTC,0:26:14,897,1574.0,25,Michigan Ave & Pearson St,3,Shedd Aquarium,Customer,,,1
+22156881,2019-03-28 15:05:46.000000 UTC,2019-03-28 15:22:14.000000 UTC,0:16:28,1315,988.0,25,Michigan Ave & Pearson St,3,Shedd Aquarium,Subscriber,Male,1958,5
+21772511,2019-01-06 14:43:39.000000 UTC,2019-01-06 14:56:53.000000 UTC,0:13:14,1591,794.0,26,McClurg Ct & Illinois St,3,Shedd Aquarium,Subscriber,Male,1985,1
+21870769,2019-02-03 13:57:29.000000 UTC,2019-02-03 14:17:43.000000 UTC,0:20:14,5046,1214.0,26,McClurg Ct & Illinois St,3,Shedd Aquarium,Subscriber,Female,1978,1
+21870770,2019-02-03 13:57:41.000000 UTC,2019-02-03 14:16:56.000000 UTC,0:19:15,5335,1155.0,26,McClurg Ct & Illinois St,3,Shedd Aquarium,Subscriber,Male,1987,1
+22069964,2019-03-17 13:38:01.000000 UTC,2019-03-17 14:03:33.000000 UTC,0:25:32,6294,1532.0,26,McClurg Ct & Illinois St,3,Shedd Aquarium,Customer,,,1
+22069965,2019-03-17 13:38:05.000000 UTC,2019-03-17 14:03:51.000000 UTC,0:25:46,2129,1546.0,26,McClurg Ct & Illinois St,3,Shedd Aquarium,Customer,,,1
+22069975,2019-03-17 13:38:34.000000 UTC,2019-03-17 14:03:27.000000 UTC,0:24:53,498,1493.0,26,McClurg Ct & Illinois St,3,Shedd Aquarium,Customer,,,1
+22069982,2019-03-17 13:39:19.000000 UTC,2019-03-17 14:03:33.000000 UTC,0:24:14,5916,1454.0,26,McClurg Ct & Illinois St,3,Shedd Aquarium,Customer,,,1
+21771804,2019-01-06 12:51:24.000000 UTC,2019-01-06 13:04:14.000000 UTC,0:12:50,1458,770.0,33,State St & Van Buren St,3,Shedd Aquarium,Customer,,,1
+21771812,2019-01-06 12:52:00.000000 UTC,2019-01-06 13:04:14.000000 UTC,0:12:14,3522,734.0,33,State St & Van Buren St,3,Shedd Aquarium,Customer,,,1
+21773172,2019-01-06 16:11:29.000000 UTC,2019-01-06 16:19:12.000000 UTC,0:07:43,2717,463.0,33,State St & Van Buren St,3,Shedd Aquarium,Subscriber,Male,1989,1
+21808088,2019-01-13 08:37:57.000000 UTC,2019-01-13 08:49:35.000000 UTC,0:11:38,3621,698.0,33,State St & Van Buren St,3,Shedd Aquarium,Subscriber,Female,1970,1
+21860029,2019-01-27 08:39:37.000000 UTC,2019-01-27 08:53:03.000000 UTC,0:13:26,338,806.0,33,State St & Van Buren St,3,Shedd Aquarium,Subscriber,Female,1970,1
+21761555,2019-01-04 17:30:59.000000 UTC,2019-01-04 19:07:04.000000 UTC,1:36:05,4972,5765.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,6
+21761580,2019-01-04 17:32:24.000000 UTC,2019-01-04 19:04:39.000000 UTC,1:32:15,419,5535.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,6
+21761628,2019-01-04 17:35:00.000000 UTC,2019-01-04 19:07:21.000000 UTC,1:32:21,3234,5541.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,6
+21765243,2019-01-05 12:34:22.000000 UTC,2019-01-05 13:18:09.000000 UTC,0:43:47,469,2627.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,7
+21765245,2019-01-05 12:34:27.000000 UTC,2019-01-05 13:18:09.000000 UTC,0:43:42,3287,2622.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,7
+21766536,2019-01-05 14:15:44.000000 UTC,2019-01-05 14:36:27.000000 UTC,0:20:43,3355,1243.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Subscriber,Female,1986,7
+21766541,2019-01-05 14:15:56.000000 UTC,2019-01-05 14:36:22.000000 UTC,0:20:26,4836,1226.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,Male,1985,7
+21768879,2019-01-05 17:17:22.000000 UTC,2019-01-05 17:40:19.000000 UTC,0:22:57,673,1377.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Subscriber,Male,1994,7
+21771895,2019-01-06 13:05:34.000000 UTC,2019-01-06 13:23:22.000000 UTC,0:17:48,1893,1068.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Subscriber,Female,1988,1
+21771897,2019-01-06 13:05:49.000000 UTC,2019-01-06 13:23:22.000000 UTC,0:17:33,4745,1053.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Subscriber,Male,1979,1
+21772198,2019-01-06 13:51:23.000000 UTC,2019-01-06 14:01:46.000000 UTC,0:10:23,6367,623.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Subscriber,Male,1983,1
+21783311,2019-01-08 12:57:12.000000 UTC,2019-01-08 13:38:32.000000 UTC,0:41:20,6229,2480.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,Male,1997,3
+21783320,2019-01-08 12:58:30.000000 UTC,2019-01-08 13:37:59.000000 UTC,0:39:29,3622,2369.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,Male,1990,3
+21783325,2019-01-08 12:58:51.000000 UTC,2019-01-08 13:38:16.000000 UTC,0:39:25,716,2365.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,Male,1990,3
+21783328,2019-01-08 12:59:25.000000 UTC,2019-01-08 13:38:16.000000 UTC,0:38:51,2952,2331.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,3
+21854387,2019-01-24 13:45:52.000000 UTC,2019-01-24 14:02:56.000000 UTC,0:17:04,6208,1024.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Subscriber,Male,1966,5
+21901341,2019-02-09 12:47:18.000000 UTC,2019-02-09 13:18:03.000000 UTC,0:30:45,6250,1845.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,Female,1991,7
+21934395,2019-02-18 15:52:46.000000 UTC,2019-02-18 16:09:32.000000 UTC,0:16:46,100,1006.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Subscriber,Male,1966,2
+21937827,2019-02-19 11:11:43.000000 UTC,2019-02-19 11:34:58.000000 UTC,0:23:15,4169,1395.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,3
+21937828,2019-02-19 11:12:00.000000 UTC,2019-02-19 11:34:53.000000 UTC,0:22:53,3781,1373.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,3
+21947185,2019-02-21 09:32:37.000000 UTC,2019-02-21 09:45:50.000000 UTC,0:13:13,2888,793.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Subscriber,Male,1986,5
+21953817,2019-02-22 11:32:08.000000 UTC,2019-02-22 11:58:32.000000 UTC,0:26:24,1723,1584.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,6
+21953818,2019-02-22 11:32:15.000000 UTC,2019-02-22 11:58:28.000000 UTC,0:26:13,48,1573.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,6
+21953819,2019-02-22 11:32:17.000000 UTC,2019-02-22 11:58:37.000000 UTC,0:26:20,3423,1580.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,6
+21953820,2019-02-22 11:32:20.000000 UTC,2019-02-22 11:58:45.000000 UTC,0:26:25,2888,1585.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,6
+22020203,2019-03-09 13:17:12.000000 UTC,2019-03-09 13:50:02.000000 UTC,0:32:50,3810,1970.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,7
+22034992,2019-03-12 12:46:17.000000 UTC,2019-03-12 13:09:45.000000 UTC,0:23:28,5787,1408.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,Female,1988,3
+22034996,2019-03-12 12:46:24.000000 UTC,2019-03-12 13:09:32.000000 UTC,0:23:08,3970,1388.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,Male,1963,3
+22059560,2019-03-15 15:29:46.000000 UTC,2019-03-15 15:45:17.000000 UTC,0:15:31,1429,931.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Subscriber,Female,1978,6
+22065239,2019-03-16 13:54:05.000000 UTC,2019-03-16 14:17:25.000000 UTC,0:23:20,4474,1400.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,7
+22065243,2019-03-16 13:54:20.000000 UTC,2019-03-16 14:17:47.000000 UTC,0:23:27,3546,1407.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,7
+22069464,2019-03-17 12:40:12.000000 UTC,2019-03-17 13:16:05.000000 UTC,0:35:53,4391,2153.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,1
+22069466,2019-03-17 12:40:42.000000 UTC,2019-03-17 13:16:05.000000 UTC,0:35:23,4118,2123.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,1
+22076968,2019-03-18 14:18:35.000000 UTC,2019-03-18 14:52:01.000000 UTC,0:33:26,796,2006.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,2
+22076970,2019-03-18 14:18:44.000000 UTC,2019-03-18 14:52:01.000000 UTC,0:33:17,3533,1997.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,2
+22102624,2019-03-21 17:27:21.000000 UTC,2019-03-21 17:50:23.000000 UTC,0:23:02,4384,1382.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,5
+22102634,2019-03-21 17:27:48.000000 UTC,2019-03-21 17:50:16.000000 UTC,0:22:28,3195,1348.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,5
+22113770,2019-03-23 09:35:07.000000 UTC,2019-03-23 10:14:19.000000 UTC,0:39:12,5987,2352.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,7
+22113773,2019-03-23 09:35:30.000000 UTC,2019-03-23 10:13:30.000000 UTC,0:38:00,6025,2280.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,7
+22113775,2019-03-23 09:35:48.000000 UTC,2019-03-23 10:13:41.000000 UTC,0:37:53,5499,2273.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,7
+22113776,2019-03-23 09:35:59.000000 UTC,2019-03-23 10:13:22.000000 UTC,0:37:23,3760,2243.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,7
+22115469,2019-03-23 12:37:16.000000 UTC,2019-03-23 13:09:15.000000 UTC,0:31:59,3276,1919.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,7
+22115476,2019-03-23 12:37:42.000000 UTC,2019-03-23 13:08:39.000000 UTC,0:30:57,4372,1857.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,7
+22115487,2019-03-23 12:38:19.000000 UTC,2019-03-23 13:08:23.000000 UTC,0:30:04,3615,1804.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,7
+22115493,2019-03-23 12:38:37.000000 UTC,2019-03-23 13:08:12.000000 UTC,0:29:35,4347,1775.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,7
+22116017,2019-03-23 13:20:05.000000 UTC,2019-03-23 13:41:25.000000 UTC,0:21:20,5951,1280.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,7
+22116035,2019-03-23 13:22:01.000000 UTC,2019-03-23 13:44:33.000000 UTC,0:22:32,2127,1352.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,7
+22116287,2019-03-23 13:39:22.000000 UTC,2019-03-23 14:00:23.000000 UTC,0:21:01,2876,1261.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,7
+22116295,2019-03-23 13:39:40.000000 UTC,2019-03-23 14:00:06.000000 UTC,0:20:26,250,1226.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,7
+22143996,2019-03-27 11:35:58.000000 UTC,2019-03-27 12:09:51.000000 UTC,0:33:53,2783,2033.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,4
+22143998,2019-03-27 11:36:06.000000 UTC,2019-03-27 12:09:42.000000 UTC,0:33:36,3089,2016.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,4
+22144961,2019-03-27 13:53:31.000000 UTC,2019-03-27 14:15:54.000000 UTC,0:22:23,748,1343.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,4
+22144963,2019-03-27 13:53:36.000000 UTC,2019-03-27 14:15:31.000000 UTC,0:21:55,4097,1315.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,4
+22144965,2019-03-27 13:53:39.000000 UTC,2019-03-27 14:15:43.000000 UTC,0:22:04,6409,1324.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,4
+22145360,2019-03-27 14:47:52.000000 UTC,2019-03-27 15:11:00.000000 UTC,0:23:08,3126,1388.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Subscriber,Male,1995,4
+22148020,2019-03-27 17:23:45.000000 UTC,2019-03-27 17:47:24.000000 UTC,0:23:39,6025,1419.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,Female,2001,4
+22148037,2019-03-27 17:24:18.000000 UTC,2019-03-27 17:47:46.000000 UTC,0:23:28,5908,1408.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,Female,1964,4
+22154368,2019-03-28 10:29:59.000000 UTC,2019-03-28 11:01:27.000000 UTC,0:31:28,2387,1888.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,5
+22154370,2019-03-28 10:30:20.000000 UTC,2019-03-28 11:01:27.000000 UTC,0:31:07,5350,1867.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,5
+22154554,2019-03-28 10:58:55.000000 UTC,2019-03-28 11:26:30.000000 UTC,0:27:35,2555,1655.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,5
+22154560,2019-03-28 10:59:21.000000 UTC,2019-03-28 11:25:51.000000 UTC,0:26:30,1859,1590.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,5
+22154565,2019-03-28 10:59:53.000000 UTC,2019-03-28 11:26:30.000000 UTC,0:26:37,3746,1597.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,5
+22155530,2019-03-28 12:49:47.000000 UTC,2019-03-28 13:43:22.000000 UTC,0:53:35,4705,3215.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,5
+22155532,2019-03-28 12:50:00.000000 UTC,2019-03-28 13:43:10.000000 UTC,0:53:10,4746,3190.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,5
+22165357,2019-03-29 11:58:22.000000 UTC,2019-03-29 12:36:53.000000 UTC,0:38:31,694,2311.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,6
+22165360,2019-03-29 11:58:51.000000 UTC,2019-03-29 12:36:43.000000 UTC,0:37:52,3825,2272.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,6
+22165368,2019-03-29 11:59:39.000000 UTC,2019-03-29 12:36:53.000000 UTC,0:37:14,4676,2234.0,35,Streeter Dr & Grand Ave,3,Shedd Aquarium,Customer,,,6
+21954050,2019-02-22 12:16:29.000000 UTC,2019-02-22 12:29:58.000000 UTC,0:13:29,1742,809.0,36,Franklin St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1984,6
+21954518,2019-02-22 13:53:26.000000 UTC,2019-02-22 14:24:44.000000 UTC,0:31:18,2228,1878.0,36,Franklin St & Jackson Blvd,3,Shedd Aquarium,Customer,,,6
+21954523,2019-02-22 13:54:20.000000 UTC,2019-02-22 14:24:38.000000 UTC,0:30:18,2419,1818.0,36,Franklin St & Jackson Blvd,3,Shedd Aquarium,Customer,,,6
+22157815,2019-03-28 16:20:24.000000 UTC,2019-03-28 16:45:55.000000 UTC,0:25:31,224,1531.0,36,Franklin St & Jackson Blvd,3,Shedd Aquarium,Customer,,,5
+22157826,2019-03-28 16:20:40.000000 UTC,2019-03-28 16:45:48.000000 UTC,0:25:08,2606,1508.0,36,Franklin St & Jackson Blvd,3,Shedd Aquarium,Customer,,,5
+21763769,2019-01-05 09:13:02.000000 UTC,2019-01-05 09:26:51.000000 UTC,0:13:49,5850,829.0,37,Dearborn St & Adams St,3,Shedd Aquarium,Subscriber,Female,1990,7
+21862951,2019-01-29 08:49:18.000000 UTC,2019-01-29 09:09:28.000000 UTC,0:20:10,6076,1210.0,37,Dearborn St & Adams St,3,Shedd Aquarium,Subscriber,Male,1987,3
+21802314,2019-01-11 12:21:32.000000 UTC,2019-01-11 12:34:22.000000 UTC,0:12:50,6460,770.0,38,Clark St & Lake St,3,Shedd Aquarium,Subscriber,Male,1972,6
+21812427,2019-01-14 12:06:44.000000 UTC,2019-01-14 12:19:44.000000 UTC,0:13:00,2244,780.0,38,Clark St & Lake St,3,Shedd Aquarium,Subscriber,Male,1972,2
+21772373,2019-01-06 14:20:10.000000 UTC,2019-01-06 14:31:32.000000 UTC,0:11:22,2083,682.0,39,Wabash Ave & Adams St,3,Shedd Aquarium,Customer,,,1
+21772374,2019-01-06 14:20:19.000000 UTC,2019-01-06 14:31:32.000000 UTC,0:11:13,110,673.0,39,Wabash Ave & Adams St,3,Shedd Aquarium,Subscriber,Male,1987,1
+21772375,2019-01-06 14:20:25.000000 UTC,2019-01-06 14:31:32.000000 UTC,0:11:07,5660,667.0,39,Wabash Ave & Adams St,3,Shedd Aquarium,Customer,,,1
+22009251,2019-03-07 12:29:28.000000 UTC,2019-03-07 12:38:00.000000 UTC,0:08:32,4770,512.0,39,Wabash Ave & Adams St,3,Shedd Aquarium,Subscriber,Male,1961,5
+22119758,2019-03-23 18:29:58.000000 UTC,2019-03-23 19:10:24.000000 UTC,0:40:26,3447,2426.0,39,Wabash Ave & Adams St,3,Shedd Aquarium,Subscriber,Female,1989,7
+22129616,2019-03-25 16:54:10.000000 UTC,2019-03-25 17:11:28.000000 UTC,0:17:18,2086,1038.0,39,Wabash Ave & Adams St,3,Shedd Aquarium,Customer,Male,1989,2
+22129683,2019-03-25 16:59:11.000000 UTC,2019-03-25 17:11:28.000000 UTC,0:12:17,61,737.0,39,Wabash Ave & Adams St,3,Shedd Aquarium,Customer,Male,1997,2
+22165714,2019-03-29 12:45:59.000000 UTC,2019-03-29 12:56:07.000000 UTC,0:10:08,2922,608.0,39,Wabash Ave & Adams St,3,Shedd Aquarium,Subscriber,Male,1984,6
+22154771,2019-03-28 11:29:29.000000 UTC,2019-03-28 11:56:58.000000 UTC,0:27:29,1973,1649.0,40,LaSalle St & Adams St,3,Shedd Aquarium,Customer,Male,1993,5
+22154774,2019-03-28 11:29:46.000000 UTC,2019-03-28 11:57:19.000000 UTC,0:27:33,1688,1653.0,40,LaSalle St & Adams St,3,Shedd Aquarium,Customer,Male,1969,5
+22154777,2019-03-28 11:30:25.000000 UTC,2019-03-28 11:57:19.000000 UTC,0:26:54,2946,1614.0,40,LaSalle St & Adams St,3,Shedd Aquarium,Customer,Female,2000,5
+22027033,2019-03-11 12:41:46.000000 UTC,2019-03-11 12:49:21.000000 UTC,0:07:35,5409,455.0,41,Federal St & Polk St,3,Shedd Aquarium,Subscriber,Male,1977,2
+21926463,2019-02-15 13:51:22.000000 UTC,2019-02-15 14:09:08.000000 UTC,0:17:46,4342,1066.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Customer,Male,1978,6
+21926464,2019-02-15 13:51:28.000000 UTC,2019-02-15 14:09:29.000000 UTC,0:18:01,6127,1081.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Customer,Female,1974,6
+21952731,2019-02-22 08:28:24.000000 UTC,2019-02-22 08:56:43.000000 UTC,0:28:19,4620,1699.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Customer,,,6
+22019635,2019-03-09 11:36:48.000000 UTC,2019-03-09 11:54:00.000000 UTC,0:17:12,4044,1032.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Subscriber,Female,1990,7
+22019636,2019-03-09 11:37:12.000000 UTC,2019-03-09 11:53:53.000000 UTC,0:16:41,1095,1001.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Subscriber,Male,1990,7
+22042900,2019-03-13 11:41:03.000000 UTC,2019-03-13 12:00:32.000000 UTC,0:19:29,2795,1169.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Customer,,,4
+22042903,2019-03-13 11:41:13.000000 UTC,2019-03-13 11:59:52.000000 UTC,0:18:39,1009,1119.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Customer,,,4
+22108976,2019-03-22 14:09:14.000000 UTC,2019-03-22 14:36:35.000000 UTC,0:27:21,6251,1641.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Customer,,,6
+22108978,2019-03-22 14:09:45.000000 UTC,2019-03-22 14:36:19.000000 UTC,0:26:34,276,1594.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Customer,,,6
+22119854,2019-03-23 18:41:42.000000 UTC,2019-03-23 18:59:47.000000 UTC,0:18:05,6140,1085.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Subscriber,Female,1987,7
+22119855,2019-03-23 18:41:45.000000 UTC,2019-03-23 18:59:47.000000 UTC,0:18:02,947,1082.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Subscriber,Male,1981,7
+22122932,2019-03-24 13:20:08.000000 UTC,2019-03-24 13:47:13.000000 UTC,0:27:05,1981,1625.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Customer,,,1
+22147134,2019-03-27 16:56:33.000000 UTC,2019-03-27 17:22:08.000000 UTC,0:25:35,4860,1535.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Customer,,,4
+22147175,2019-03-27 16:57:54.000000 UTC,2019-03-27 17:21:03.000000 UTC,0:23:09,4363,1389.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Customer,,,4
+22147182,2019-03-27 16:58:06.000000 UTC,2019-03-27 17:21:14.000000 UTC,0:23:08,354,1388.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Customer,,,4
+22154470,2019-03-28 10:47:25.000000 UTC,2019-03-28 11:37:59.000000 UTC,0:50:34,6446,3034.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Customer,,,5
+22154473,2019-03-28 10:47:50.000000 UTC,2019-03-28 11:37:24.000000 UTC,0:49:34,1715,2974.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Customer,,,5
+22172250,2019-03-30 12:27:04.000000 UTC,2019-03-30 12:55:11.000000 UTC,0:28:07,3445,1687.0,43,Michigan Ave & Washington St,3,Shedd Aquarium,Customer,,,7
+22128577,2019-03-25 15:00:51.000000 UTC,2019-03-25 15:29:25.000000 UTC,0:28:34,2606,1714.0,44,State St & Randolph St,3,Shedd Aquarium,Customer,,,2
+22128579,2019-03-25 15:01:07.000000 UTC,2019-03-25 15:29:21.000000 UTC,0:28:14,2673,1694.0,44,State St & Randolph St,3,Shedd Aquarium,Customer,,,2
+21772533,2019-01-06 14:45:52.000000 UTC,2019-01-06 14:56:37.000000 UTC,0:10:45,1830,645.0,45,Michigan Ave & Ida B Wells Dr,3,Shedd Aquarium,Subscriber,Male,1987,1
+21893945,2019-02-07 15:22:55.000000 UTC,2019-02-07 15:32:10.000000 UTC,0:09:15,3083,555.0,45,Michigan Ave & Ida B Wells Dr,3,Shedd Aquarium,Subscriber,Male,1968,5
+21899010,2019-02-08 16:30:10.000000 UTC,2019-02-08 16:39:44.000000 UTC,0:09:34,2993,574.0,45,Michigan Ave & Ida B Wells Dr,3,Shedd Aquarium,Subscriber,Male,1968,6
+22034267,2019-03-12 10:46:09.000000 UTC,2019-03-12 11:20:44.000000 UTC,0:34:35,5367,2075.0,45,Michigan Ave & Ida B Wells Dr,3,Shedd Aquarium,Customer,,,3
+22034272,2019-03-12 10:46:29.000000 UTC,2019-03-12 11:21:09.000000 UTC,0:34:40,513,2080.0,45,Michigan Ave & Ida B Wells Dr,3,Shedd Aquarium,Customer,,,3
+22034273,2019-03-12 10:46:37.000000 UTC,2019-03-12 11:20:31.000000 UTC,0:33:54,2772,2034.0,45,Michigan Ave & Ida B Wells Dr,3,Shedd Aquarium,Customer,,,3
+22034274,2019-03-12 10:46:49.000000 UTC,2019-03-12 11:20:38.000000 UTC,0:33:49,3466,2029.0,45,Michigan Ave & Ida B Wells Dr,3,Shedd Aquarium,Customer,,,3
+22049470,2019-03-14 08:11:57.000000 UTC,2019-03-14 08:35:35.000000 UTC,0:23:38,5862,1418.0,45,Michigan Ave & Ida B Wells Dr,3,Shedd Aquarium,Customer,,,5
+22076227,2019-03-18 12:10:46.000000 UTC,2019-03-18 12:25:56.000000 UTC,0:15:10,5592,910.0,45,Michigan Ave & Ida B Wells Dr,3,Shedd Aquarium,Customer,,,2
+22076228,2019-03-18 12:10:52.000000 UTC,2019-03-18 12:26:02.000000 UTC,0:15:10,4291,910.0,45,Michigan Ave & Ida B Wells Dr,3,Shedd Aquarium,Customer,,,2
+22061835,2019-03-15 18:35:34.000000 UTC,2019-03-15 18:51:40.000000 UTC,0:16:06,148,966.0,49,Dearborn St & Monroe St,3,Shedd Aquarium,Subscriber,Female,1966,6
+22149446,2019-03-27 18:24:00.000000 UTC,2019-03-27 18:43:42.000000 UTC,0:19:42,4236,1182.0,49,Dearborn St & Monroe St,3,Shedd Aquarium,Subscriber,Male,1964,4
+22172766,2019-03-30 13:46:32.000000 UTC,2019-03-30 14:01:18.000000 UTC,0:14:46,788,886.0,49,Dearborn St & Monroe St,3,Shedd Aquarium,Customer,,,7
+21771871,2019-01-06 13:02:06.000000 UTC,2019-01-06 13:15:22.000000 UTC,0:13:16,6012,796.0,50,Clark St & Ida B Wells Dr,3,Shedd Aquarium,Subscriber,Male,1970,1
+21771872,2019-01-06 13:02:13.000000 UTC,2019-01-06 13:15:37.000000 UTC,0:13:24,6002,804.0,50,Clark St & Ida B Wells Dr,3,Shedd Aquarium,Subscriber,Female,1966,1
+22164238,2019-03-29 09:12:49.000000 UTC,2019-03-29 09:23:37.000000 UTC,0:10:48,181,648.0,50,Clark St & Ida B Wells Dr,3,Shedd Aquarium,Subscriber,Male,1970,6
+22166700,2019-03-29 14:48:56.000000 UTC,2019-03-29 15:19:32.000000 UTC,0:30:36,569,1836.0,51,Clark St & Randolph St,3,Shedd Aquarium,Customer,,,6
+22166706,2019-03-29 14:49:35.000000 UTC,2019-03-29 15:19:28.000000 UTC,0:29:53,4103,1793.0,51,Clark St & Randolph St,3,Shedd Aquarium,Customer,,,6
+21766437,2019-01-05 14:08:42.000000 UTC,2019-01-05 14:39:52.000000 UTC,0:31:10,4738,1870.0,52,Michigan Ave & Lake St,3,Shedd Aquarium,Customer,,,7
+21766492,2019-01-05 14:11:46.000000 UTC,2019-01-05 14:39:50.000000 UTC,0:28:04,5136,1684.0,52,Michigan Ave & Lake St,3,Shedd Aquarium,Customer,,,7
+21766505,2019-01-05 14:13:14.000000 UTC,2019-01-05 14:39:50.000000 UTC,0:26:36,3141,1596.0,52,Michigan Ave & Lake St,3,Shedd Aquarium,Customer,,,7
+21766528,2019-01-05 14:14:58.000000 UTC,2019-01-05 14:39:50.000000 UTC,0:24:52,1581,1492.0,52,Michigan Ave & Lake St,3,Shedd Aquarium,Customer,Male,1998,7
+21766534,2019-01-05 14:15:39.000000 UTC,2019-01-05 14:40:19.000000 UTC,0:24:40,4210,1480.0,52,Michigan Ave & Lake St,3,Shedd Aquarium,Customer,,,7
+22042838,2019-03-13 11:29:56.000000 UTC,2019-03-13 11:50:15.000000 UTC,0:20:19,4397,1219.0,52,Michigan Ave & Lake St,3,Shedd Aquarium,Customer,Male,2000,4
+22042839,2019-03-13 11:30:32.000000 UTC,2019-03-13 11:50:09.000000 UTC,0:19:37,3551,1177.0,52,Michigan Ave & Lake St,3,Shedd Aquarium,Customer,Male,1983,4
+22099104,2019-03-21 09:24:53.000000 UTC,2019-03-21 09:45:03.000000 UTC,0:20:10,4258,1210.0,52,Michigan Ave & Lake St,3,Shedd Aquarium,Customer,Male,1989,5
+22099117,2019-03-21 09:27:13.000000 UTC,2019-03-21 09:45:24.000000 UTC,0:18:11,2730,1091.0,52,Michigan Ave & Lake St,3,Shedd Aquarium,Customer,Male,1990,5
+22099118,2019-03-21 09:27:16.000000 UTC,2019-03-21 09:45:03.000000 UTC,0:17:47,3276,1067.0,52,Michigan Ave & Lake St,3,Shedd Aquarium,Customer,Male,1990,5
+22002540,2019-03-06 08:54:54.000000 UTC,2019-03-06 09:10:04.000000 UTC,0:15:10,2165,910.0,55,Halsted St & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Female,1981,4
+22109062,2019-03-22 14:20:45.000000 UTC,2019-03-22 14:30:08.000000 UTC,0:09:23,1958,563.0,57,Clinton St & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1988,6
+21744801,2019-01-02 07:30:47.000000 UTC,2019-01-02 07:37:03.000000 UTC,0:06:16,5027,376.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1987,4
+21749922,2019-01-03 07:46:44.000000 UTC,2019-01-03 07:53:18.000000 UTC,0:06:34,1647,394.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1987,5
+21756288,2019-01-04 07:41:37.000000 UTC,2019-01-04 07:47:38.000000 UTC,0:06:01,4217,361.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Female,1990,6
+21758125,2019-01-04 11:36:27.000000 UTC,2019-01-04 11:50:17.000000 UTC,0:13:50,4365,830.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Customer,,,6
+21771887,2019-01-06 13:04:45.000000 UTC,2019-01-06 13:11:34.000000 UTC,0:06:49,3090,409.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1979,1
+21780825,2019-01-08 07:48:00.000000 UTC,2019-01-08 07:54:19.000000 UTC,0:06:19,1489,379.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1987,3
+21788297,2019-01-09 07:39:46.000000 UTC,2019-01-09 07:45:38.000000 UTC,0:05:52,6312,352.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1987,4
+21801069,2019-01-11 08:37:56.000000 UTC,2019-01-11 08:47:41.000000 UTC,0:09:45,6068,585.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1955,6
+21835982,2019-01-18 07:29:09.000000 UTC,2019-01-18 07:34:37.000000 UTC,0:05:28,3083,328.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Female,1990,6
+21852963,2019-01-24 07:50:42.000000 UTC,2019-01-24 07:56:53.000000 UTC,0:06:11,2424,371.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1987,5
+21904302,2019-02-10 14:51:28.000000 UTC,2019-02-10 15:00:16.000000 UTC,0:08:48,4063,528.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1961,1
+21913335,2019-02-13 07:34:18.000000 UTC,2019-02-13 07:42:27.000000 UTC,0:08:09,6296,489.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1976,4
+21914200,2019-02-13 09:45:08.000000 UTC,2019-02-13 09:50:45.000000 UTC,0:05:37,6445,337.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1986,4
+21929266,2019-02-16 09:25:00.000000 UTC,2019-02-16 09:31:00.000000 UTC,0:06:00,1750,360.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1979,7
+21930097,2019-02-16 13:07:12.000000 UTC,2019-02-16 13:15:10.000000 UTC,0:07:58,5485,478.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1984,7
+21934094,2019-02-18 14:20:09.000000 UTC,2019-02-18 14:27:05.000000 UTC,0:06:56,6341,416.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1983,2
+21952414,2019-02-22 08:03:43.000000 UTC,2019-02-22 08:10:09.000000 UTC,0:06:26,112,386.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1980,6
+21977791,2019-02-28 08:04:51.000000 UTC,2019-02-28 08:11:27.000000 UTC,0:06:36,1881,396.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1987,5
+22060314,2019-03-15 16:44:27.000000 UTC,2019-03-15 17:04:49.000000 UTC,0:20:22,5165,1222.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1993,6
+22060315,2019-03-15 16:44:32.000000 UTC,2019-03-15 17:05:15.000000 UTC,0:20:43,832,1243.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Female,1996,6
+22070351,2019-03-17 14:12:52.000000 UTC,2019-03-17 14:32:50.000000 UTC,0:19:58,1623,1198.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Customer,Female,1999,1
+22070352,2019-03-17 14:13:04.000000 UTC,2019-03-17 14:32:50.000000 UTC,0:19:46,2460,1186.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Customer,Male,1999,1
+22074172,2019-03-18 08:57:03.000000 UTC,2019-03-18 09:01:52.000000 UTC,0:04:49,2281,289.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1980,2
+22098630,2019-03-21 08:38:13.000000 UTC,2019-03-21 08:43:35.000000 UTC,0:05:22,5660,322.0,59,Wabash Ave & Roosevelt Rd,3,Shedd Aquarium,Subscriber,Male,1987,5
+21920518,2019-02-14 13:33:51.000000 UTC,2019-02-14 13:56:54.000000 UTC,0:23:03,48,1383.0,62,McCormick Place,3,Shedd Aquarium,Customer,,,5
+21920520,2019-02-14 13:34:01.000000 UTC,2019-02-14 13:57:11.000000 UTC,0:23:10,836,1390.0,62,McCormick Place,3,Shedd Aquarium,Customer,,,5
+21920545,2019-02-14 13:39:43.000000 UTC,2019-02-14 13:57:07.000000 UTC,0:17:24,4448,1044.0,62,McCormick Place,3,Shedd Aquarium,Customer,,,5
+21954438,2019-02-22 13:37:33.000000 UTC,2019-02-22 14:14:03.000000 UTC,0:36:30,4023,2190.0,62,McCormick Place,3,Shedd Aquarium,Customer,,,6
+21954462,2019-02-22 13:41:50.000000 UTC,2019-02-22 14:15:11.000000 UTC,0:33:21,5891,2001.0,62,McCormick Place,3,Shedd Aquarium,Customer,,,6
+21985574,2019-03-01 15:22:34.000000 UTC,2019-03-01 16:14:17.000000 UTC,0:51:43,2730,3103.0,62,McCormick Place,3,Shedd Aquarium,Subscriber,Female,1984,6
+22137397,2019-03-26 16:27:52.000000 UTC,2019-03-26 17:04:10.000000 UTC,0:36:18,6416,2178.0,62,McCormick Place,3,Shedd Aquarium,Subscriber,Male,1981,3
+21772476,2019-01-06 14:37:42.000000 UTC,2019-01-06 15:01:19.000000 UTC,0:23:37,5729,1417.0,66,Clinton St & Lake St,3,Shedd Aquarium,Customer,,,1
+21772481,2019-01-06 14:37:51.000000 UTC,2019-01-06 15:01:33.000000 UTC,0:23:42,3306,1422.0,66,Clinton St & Lake St,3,Shedd Aquarium,Customer,,,1
+22154987,2019-03-28 11:54:01.000000 UTC,2019-03-28 12:14:15.000000 UTC,0:20:14,6226,1214.0,68,Clinton St & Tilden St,3,Shedd Aquarium,Subscriber,Male,1978,5
+22165192,2019-03-29 11:40:20.000000 UTC,2019-03-29 11:53:01.000000 UTC,0:12:41,5225,761.0,68,Clinton St & Tilden St,3,Shedd Aquarium,Subscriber,Female,1971,6
+21766998,2019-01-05 14:47:24.000000 UTC,2019-01-05 15:26:13.000000 UTC,0:38:49,537,2329.0,71,Morgan St & Lake St,3,Shedd Aquarium,Customer,Male,1994,7
+21767017,2019-01-05 14:48:45.000000 UTC,2019-01-05 15:26:25.000000 UTC,0:37:40,673,2260.0,71,Morgan St & Lake St,3,Shedd Aquarium,Customer,,,7
+22049351,2019-03-14 08:04:39.000000 UTC,2019-03-14 08:23:31.000000 UTC,0:18:52,1049,1132.0,72,Wabash Ave & 16th St,3,Shedd Aquarium,Subscriber,Female,1954,5
+22143183,2019-03-27 09:18:55.000000 UTC,2019-03-27 09:30:56.000000 UTC,0:12:01,383,721.0,72,Wabash Ave & 16th St,3,Shedd Aquarium,Subscriber,Male,1981,4
+21750106,2019-01-03 08:00:54.000000 UTC,2019-01-03 08:15:46.000000 UTC,0:14:52,1640,892.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,5
+21756490,2019-01-04 07:55:38.000000 UTC,2019-01-04 08:08:30.000000 UTC,0:12:52,2043,772.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,6
+21780956,2019-01-08 07:55:37.000000 UTC,2019-01-08 08:09:35.000000 UTC,0:13:58,6098,838.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,3
+21788509,2019-01-09 07:55:11.000000 UTC,2019-01-09 08:07:53.000000 UTC,0:12:42,1482,762.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,4
+21794320,2019-01-10 07:59:56.000000 UTC,2019-01-10 08:15:22.000000 UTC,0:15:26,6056,926.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,5
+21800543,2019-01-11 08:00:03.000000 UTC,2019-01-11 08:14:24.000000 UTC,0:14:21,181,861.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,6
+21810987,2019-01-14 07:57:54.000000 UTC,2019-01-14 08:11:52.000000 UTC,0:13:58,4260,838.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,2
+21817029,2019-01-15 07:57:02.000000 UTC,2019-01-15 08:10:56.000000 UTC,0:13:54,3428,834.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,3
+21823133,2019-01-16 07:59:00.000000 UTC,2019-01-16 08:13:20.000000 UTC,0:14:20,3428,860.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,4
+21829811,2019-01-17 07:58:44.000000 UTC,2019-01-17 08:13:36.000000 UTC,0:14:52,707,892.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,5
+21836316,2019-01-18 07:55:30.000000 UTC,2019-01-18 08:10:43.000000 UTC,0:15:13,1459,913.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,6
+21845807,2019-01-22 07:56:41.000000 UTC,2019-01-22 08:10:33.000000 UTC,0:13:52,4899,832.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,3
+21853042,2019-01-24 07:59:24.000000 UTC,2019-01-24 08:15:36.000000 UTC,0:16:12,2545,972.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,5
+21856783,2019-01-25 07:58:30.000000 UTC,2019-01-25 08:14:01.000000 UTC,0:15:31,5397,931.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,6
+21873441,2019-02-04 08:06:46.000000 UTC,2019-02-04 08:22:24.000000 UTC,0:15:38,627,938.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,2
+21879985,2019-02-05 07:58:08.000000 UTC,2019-02-05 08:11:47.000000 UTC,0:13:39,882,819.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,3
+21886337,2019-02-06 08:27:43.000000 UTC,2019-02-06 08:41:34.000000 UTC,0:13:51,303,831.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,4
+21896945,2019-02-08 07:57:37.000000 UTC,2019-02-08 08:12:19.000000 UTC,0:14:42,3277,882.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,6
+21918434,2019-02-14 07:57:56.000000 UTC,2019-02-14 08:14:02.000000 UTC,0:16:06,5322,966.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,5
+21946417,2019-02-21 08:10:43.000000 UTC,2019-02-21 08:24:02.000000 UTC,0:13:19,3610,799.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,5
+21952633,2019-02-22 08:20:48.000000 UTC,2019-02-22 08:38:13.000000 UTC,0:17:25,6073,1045.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,6
+21966919,2019-02-26 08:04:57.000000 UTC,2019-02-26 08:20:29.000000 UTC,0:15:32,1076,932.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,3
+21972084,2019-02-27 07:59:27.000000 UTC,2019-02-27 08:13:28.000000 UTC,0:14:01,579,841.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,4
+21977746,2019-02-28 08:00:23.000000 UTC,2019-02-28 08:15:35.000000 UTC,0:15:12,2680,912.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,5
+21983307,2019-03-01 08:08:23.000000 UTC,2019-03-01 08:22:44.000000 UTC,0:14:21,3891,861.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,6
+21993600,2019-03-04 07:57:57.000000 UTC,2019-03-04 08:11:05.000000 UTC,0:13:08,5013,788.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,2
+21997299,2019-03-05 07:58:00.000000 UTC,2019-03-05 08:13:30.000000 UTC,0:15:30,2644,930.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,3
+22001982,2019-03-06 07:57:14.000000 UTC,2019-03-06 08:13:04.000000 UTC,0:15:50,1091,950.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,4
+22007645,2019-03-07 07:59:34.000000 UTC,2019-03-07 08:13:44.000000 UTC,0:14:10,1091,850.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,5
+22013362,2019-03-08 07:56:21.000000 UTC,2019-03-08 08:10:16.000000 UTC,0:13:55,4966,835.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,6
+22025028,2019-03-11 08:00:51.000000 UTC,2019-03-11 08:17:10.000000 UTC,0:16:19,541,979.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,2
+22032584,2019-03-12 08:00:16.000000 UTC,2019-03-12 08:14:51.000000 UTC,0:14:35,1446,875.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,3
+22049234,2019-03-14 07:57:30.000000 UTC,2019-03-14 08:11:13.000000 UTC,0:13:43,2262,823.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,5
+22105939,2019-03-22 07:52:00.000000 UTC,2019-03-22 08:07:25.000000 UTC,0:15:25,815,925.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,6
+22125842,2019-03-25 07:57:31.000000 UTC,2019-03-25 08:12:08.000000 UTC,0:14:37,4627,877.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,2
+22133449,2019-03-26 07:58:39.000000 UTC,2019-03-26 08:13:53.000000 UTC,0:15:14,5886,914.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,3
+22142537,2019-03-27 08:28:12.000000 UTC,2019-03-27 08:43:32.000000 UTC,0:15:20,627,920.0,75,Canal St & Jackson Blvd,3,Shedd Aquarium,Subscriber,Male,1983,4
+21751959,2019-01-03 13:28:03.000000 UTC,2019-01-03 14:01:49.000000 UTC,0:33:46,4033,2026.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,5
+21751961,2019-01-03 13:28:09.000000 UTC,2019-01-03 14:01:49.000000 UTC,0:33:40,642,2020.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,5
+21759228,2019-01-04 14:23:07.000000 UTC,2019-01-04 14:35:44.000000 UTC,0:12:37,1317,757.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,6
+21759229,2019-01-04 14:23:10.000000 UTC,2019-01-04 14:35:23.000000 UTC,0:12:13,4604,733.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,6
+21759247,2019-01-04 14:26:37.000000 UTC,2019-01-04 15:02:43.000000 UTC,0:36:06,3234,2166.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,6
+21759252,2019-01-04 14:26:59.000000 UTC,2019-01-04 15:02:43.000000 UTC,0:35:44,3758,2144.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,6
+21759253,2019-01-04 14:27:14.000000 UTC,2019-01-04 15:01:27.000000 UTC,0:34:13,3038,2053.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,6
+21764115,2019-01-05 10:21:06.000000 UTC,2019-01-05 10:33:03.000000 UTC,0:11:57,910,717.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Subscriber,Male,1953,7
+21764389,2019-01-05 11:05:01.000000 UTC,2019-01-05 11:21:32.000000 UTC,0:16:31,1384,991.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,7
+21764392,2019-01-05 11:05:18.000000 UTC,2019-01-05 11:21:32.000000 UTC,0:16:14,2561,974.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,7
+21764393,2019-01-05 11:05:26.000000 UTC,2019-01-05 11:21:17.000000 UTC,0:15:51,132,951.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,7
+21764396,2019-01-05 11:05:37.000000 UTC,2019-01-05 11:22:10.000000 UTC,0:16:33,5453,993.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,7
+21766962,2019-01-05 14:45:11.000000 UTC,2019-01-05 15:01:27.000000 UTC,0:16:16,6447,976.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,7
+21766965,2019-01-05 14:45:17.000000 UTC,2019-01-05 15:01:27.000000 UTC,0:16:10,1919,970.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,7
+21769192,2019-01-05 18:05:46.000000 UTC,2019-01-05 18:17:09.000000 UTC,0:11:23,2470,683.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,7
+21769193,2019-01-05 18:06:08.000000 UTC,2019-01-05 18:17:00.000000 UTC,0:10:52,4503,652.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,7
+21769369,2019-01-05 18:36:58.000000 UTC,2019-01-05 18:46:49.000000 UTC,0:09:51,605,591.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,7
+21769371,2019-01-05 18:37:34.000000 UTC,2019-01-05 18:46:57.000000 UTC,0:09:23,112,563.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,7
+21771476,2019-01-06 12:05:46.000000 UTC,2019-01-06 12:15:04.000000 UTC,0:09:18,4139,558.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Subscriber,Male,1969,1
+21771665,2019-01-06 12:32:56.000000 UTC,2019-01-06 13:01:25.000000 UTC,0:28:29,4604,1709.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,1
+21771670,2019-01-06 12:33:12.000000 UTC,2019-01-06 13:01:43.000000 UTC,0:28:31,2589,1711.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,1
+21771673,2019-01-06 12:33:20.000000 UTC,2019-01-06 13:01:03.000000 UTC,0:27:43,2719,1663.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,1
+21772303,2019-01-06 14:08:58.000000 UTC,2019-01-06 14:16:24.000000 UTC,0:07:26,1036,446.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,Male,1967,1
+21864076,2019-01-30 15:30:07.000000 UTC,2019-01-30 15:38:58.000000 UTC,0:08:51,1521,531.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Subscriber,Female,1998,4
+21888112,2019-02-06 14:05:40.000000 UTC,2019-02-06 14:19:10.000000 UTC,0:13:30,619,810.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,4
+21888115,2019-02-06 14:05:52.000000 UTC,2019-02-06 14:19:10.000000 UTC,0:13:18,128,798.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,4
+21930412,2019-02-16 14:41:07.000000 UTC,2019-02-16 14:47:44.000000 UTC,0:06:37,354,397.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Subscriber,Male,1981,7
+21934240,2019-02-18 15:06:02.000000 UTC,2019-02-18 15:21:30.000000 UTC,0:15:28,2024,928.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,2
+21934241,2019-02-18 15:06:09.000000 UTC,2019-02-18 15:21:06.000000 UTC,0:14:57,3723,897.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,2
+21938561,2019-02-19 14:37:34.000000 UTC,2019-02-19 14:46:44.000000 UTC,0:09:10,5838,550.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Subscriber,Female,1950,3
+21942201,2019-02-20 09:28:54.000000 UTC,2019-02-20 09:45:49.000000 UTC,0:16:55,4715,1015.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,4
+21942207,2019-02-20 09:30:06.000000 UTC,2019-02-20 09:45:49.000000 UTC,0:15:43,600,943.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,4
+21942220,2019-02-20 09:33:32.000000 UTC,2019-02-20 09:46:00.000000 UTC,0:12:28,2215,748.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,4
+21942809,2019-02-20 13:39:03.000000 UTC,2019-02-20 13:45:49.000000 UTC,0:06:46,3668,406.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Subscriber,Male,1971,4
+21973620,2019-02-27 12:06:07.000000 UTC,2019-02-27 12:27:10.000000 UTC,0:21:03,1251,1263.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,4
+21973629,2019-02-27 12:06:42.000000 UTC,2019-02-27 12:27:17.000000 UTC,0:20:35,704,1235.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,4
+21973743,2019-02-27 12:33:34.000000 UTC,2019-02-27 12:43:37.000000 UTC,0:10:03,5336,603.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Subscriber,Male,1983,4
+21979464,2019-02-28 13:43:32.000000 UTC,2019-02-28 13:55:25.000000 UTC,0:11:53,2217,713.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,Male,1982,5
+21979475,2019-02-28 13:45:34.000000 UTC,2019-02-28 13:55:31.000000 UTC,0:09:57,5894,597.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,5
+21989736,2019-03-02 14:23:15.000000 UTC,2019-03-02 14:33:40.000000 UTC,0:10:25,3457,625.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,7
+22021917,2019-03-10 11:45:24.000000 UTC,2019-03-10 12:12:56.000000 UTC,0:27:32,2101,1652.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,1
+22021919,2019-03-10 11:45:39.000000 UTC,2019-03-10 12:12:44.000000 UTC,0:27:05,5447,1625.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,1
+22063477,2019-03-16 09:25:04.000000 UTC,2019-03-16 09:36:09.000000 UTC,0:11:05,5826,665.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Subscriber,Male,1993,7
+22064031,2019-03-16 11:05:02.000000 UTC,2019-03-16 11:21:22.000000 UTC,0:16:20,4787,980.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,Female,1992,7
+22064057,2019-03-16 11:08:32.000000 UTC,2019-03-16 11:21:29.000000 UTC,0:12:57,544,777.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,Male,1990,7
+22064060,2019-03-16 11:08:44.000000 UTC,2019-03-16 11:21:29.000000 UTC,0:12:45,2272,765.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,Female,1990,7
+22068747,2019-03-17 11:02:12.000000 UTC,2019-03-17 11:30:14.000000 UTC,0:28:02,830,1682.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,Male,2000,1
+22068764,2019-03-17 11:06:33.000000 UTC,2019-03-17 11:30:14.000000 UTC,0:23:41,1571,1421.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,Female,2000,1
+22069072,2019-03-17 11:55:01.000000 UTC,2019-03-17 12:34:12.000000 UTC,0:39:11,600,2351.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,Female,1989,1
+22069162,2019-03-17 12:05:36.000000 UTC,2019-03-17 12:34:16.000000 UTC,0:28:40,3964,1720.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,Male,1973,1
+22069913,2019-03-17 13:34:22.000000 UTC,2019-03-17 14:14:29.000000 UTC,0:40:07,5157,2407.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,Female,1989,1
+22070948,2019-03-17 15:06:28.000000 UTC,2019-03-17 15:15:17.000000 UTC,0:08:49,6268,529.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Subscriber,Male,1992,1
+22071620,2019-03-17 16:27:37.000000 UTC,2019-03-17 16:59:10.000000 UTC,0:31:33,5168,1893.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,Male,1970,1
+22071654,2019-03-17 16:31:59.000000 UTC,2019-03-17 16:59:10.000000 UTC,0:27:11,1959,1631.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,Male,1990,1
+22085517,2019-03-19 13:39:09.000000 UTC,2019-03-19 13:58:15.000000 UTC,0:19:06,1449,1146.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,3
+22085520,2019-03-19 13:39:28.000000 UTC,2019-03-19 13:58:15.000000 UTC,0:18:47,4433,1127.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,3
+22109775,2019-03-22 15:50:03.000000 UTC,2019-03-22 16:02:44.000000 UTC,0:12:41,5668,761.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,6
+22109778,2019-03-22 15:50:08.000000 UTC,2019-03-22 16:02:44.000000 UTC,0:12:36,5891,756.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,6
+22117572,2019-03-23 15:17:17.000000 UTC,2019-03-23 15:31:10.000000 UTC,0:13:53,6271,833.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Subscriber,Male,1983,7
+22127934,2019-03-25 12:51:36.000000 UTC,2019-03-25 13:22:49.000000 UTC,0:31:13,73,1873.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,2
+22127936,2019-03-25 12:51:42.000000 UTC,2019-03-25 13:22:56.000000 UTC,0:31:14,105,1874.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,2
+22136283,2019-03-26 14:02:45.000000 UTC,2019-03-26 14:49:06.000000 UTC,0:46:21,1167,2781.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,3
+22136286,2019-03-26 14:03:11.000000 UTC,2019-03-26 14:49:34.000000 UTC,0:46:23,5908,2783.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,3
+22136287,2019-03-26 14:03:16.000000 UTC,2019-03-26 14:49:23.000000 UTC,0:46:07,1820,2767.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,3
+22136484,2019-03-26 14:39:02.000000 UTC,2019-03-26 14:50:58.000000 UTC,0:11:56,3471,716.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,Male,1986,3
+22138372,2019-03-26 17:20:58.000000 UTC,2019-03-26 17:33:18.000000 UTC,0:12:20,3220,740.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,3
+22138397,2019-03-26 17:21:46.000000 UTC,2019-03-26 17:32:58.000000 UTC,0:11:12,6293,672.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,3
+22138413,2019-03-26 17:22:33.000000 UTC,2019-03-26 17:33:06.000000 UTC,0:10:33,3190,633.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,3
+22143973,2019-03-27 11:31:58.000000 UTC,2019-03-27 11:59:28.000000 UTC,0:27:30,1503,1650.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,4
+22143977,2019-03-27 11:32:16.000000 UTC,2019-03-27 11:59:34.000000 UTC,0:27:18,4451,1638.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,4
+22158651,2019-03-28 17:02:10.000000 UTC,2019-03-28 17:14:15.000000 UTC,0:12:05,249,725.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,5
+22158656,2019-03-28 17:02:16.000000 UTC,2019-03-28 17:14:08.000000 UTC,0:11:52,4627,712.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,5
+22158658,2019-03-28 17:02:19.000000 UTC,2019-03-28 17:14:03.000000 UTC,0:11:44,4037,704.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,5
+22165311,2019-03-29 11:54:21.000000 UTC,2019-03-29 12:16:58.000000 UTC,0:22:37,3220,1357.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,6
+22165317,2019-03-29 11:54:50.000000 UTC,2019-03-29 12:17:49.000000 UTC,0:22:59,1060,1379.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,6
+22165319,2019-03-29 11:54:58.000000 UTC,2019-03-29 12:17:03.000000 UTC,0:22:05,574,1325.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,6
+22165325,2019-03-29 11:55:16.000000 UTC,2019-03-29 12:16:29.000000 UTC,0:21:13,6318,1273.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,6
+22166693,2019-03-29 14:48:31.000000 UTC,2019-03-29 14:58:41.000000 UTC,0:10:10,4004,610.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,6
+22166695,2019-03-29 14:48:36.000000 UTC,2019-03-29 14:59:07.000000 UTC,0:10:31,4915,631.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,6
+22166696,2019-03-29 14:48:38.000000 UTC,2019-03-29 14:59:07.000000 UTC,0:10:29,5559,629.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,6
+22166701,2019-03-29 14:49:04.000000 UTC,2019-03-29 14:59:02.000000 UTC,0:09:58,5322,598.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,6
+22168730,2019-03-29 17:11:10.000000 UTC,2019-03-29 17:19:21.000000 UTC,0:08:11,1480,491.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,Male,1980,6
+22172485,2019-03-30 13:03:32.000000 UTC,2019-03-30 13:23:11.000000 UTC,0:19:39,5969,1179.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,7
+22172490,2019-03-30 13:04:06.000000 UTC,2019-03-30 13:23:06.000000 UTC,0:19:00,393,1140.0,76,Lake Shore Dr & Monroe St,3,Shedd Aquarium,Customer,,,7
+21781834,2019-01-08 08:45:20.000000 UTC,2019-01-08 09:06:09.000000 UTC,0:20:49,1338,1249.0,77,Clinton St & Madison St,3,Shedd Aquarium,Subscriber,Female,1968,3
+21929455,2019-02-16 10:25:01.000000 UTC,2019-02-16 10:40:05.000000 UTC,0:15:04,4029,904.0,77,Clinton St & Madison St,3,Shedd Aquarium,Subscriber,Male,1963,7
+21936384,2019-02-19 07:31:08.000000 UTC,2019-02-19 07:52:15.000000 UTC,0:21:07,5930,1267.0,77,Clinton St & Madison St,3,Shedd Aquarium,Subscriber,Female,1975,3
+21966521,2019-02-26 07:21:36.000000 UTC,2019-02-26 07:43:32.000000 UTC,0:21:56,4300,1316.0,77,Clinton St & Madison St,3,Shedd Aquarium,Subscriber,Female,1975,3
+21997738,2019-03-05 08:51:35.000000 UTC,2019-03-05 09:12:34.000000 UTC,0:20:59,5093,1259.0,77,Clinton St & Madison St,3,Shedd Aquarium,Subscriber,Female,1968,3
+22082811,2019-03-19 08:10:11.000000 UTC,2019-03-19 08:30:35.000000 UTC,0:20:24,415,1224.0,77,Clinton St & Madison St,3,Shedd Aquarium,Subscriber,Female,1968,3
+22084649,2019-03-19 11:28:18.000000 UTC,2019-03-19 13:22:52.000000 UTC,1:54:34,5031,6874.0,77,Clinton St & Madison St,3,Shedd Aquarium,Customer,Female,1964,3
+22084650,2019-03-19 11:28:40.000000 UTC,2019-03-19 13:23:50.000000 UTC,1:55:10,4808,6910.0,77,Clinton St & Madison St,3,Shedd Aquarium,Customer,Female,1994,3
+22084653,2019-03-19 11:29:39.000000 UTC,2019-03-19 13:25:40.000000 UTC,1:56:01,466,6961.0,77,Clinton St & Madison St,3,Shedd Aquarium,Customer,Male,1991,3
+22098937,2019-03-21 09:04:21.000000 UTC,2019-03-21 09:21:58.000000 UTC,0:17:37,1079,1057.0,77,Clinton St & Madison St,3,Shedd Aquarium,Subscriber,Female,1997,5
+21996257,2019-03-04 18:28:37.000000 UTC,2019-03-04 18:51:22.000000 UTC,0:22:45,2295,1365.0,80,Aberdeen St & Monroe St,3,Shedd Aquarium,Subscriber,Male,1987,2
+21771228,2019-01-06 11:26:09.000000 UTC,2019-01-06 12:05:34.000000 UTC,0:39:25,2162,2365.0,81,Daley Center Plaza,3,Shedd Aquarium,Customer,,,1
+22044043,2019-03-13 15:44:52.000000 UTC,2019-03-13 16:09:59.000000 UTC,0:25:07,5350,1507.0,81,Daley Center Plaza,3,Shedd Aquarium,Customer,Female,1965,4
+22044053,2019-03-13 15:46:07.000000 UTC,2019-03-13 16:09:54.000000 UTC,0:23:47,4900,1427.0,81,Daley Center Plaza,3,Shedd Aquarium,Subscriber,Male,1959,4
+22108909,2019-03-22 13:59:56.000000 UTC,2019-03-22 14:22:22.000000 UTC,0:22:26,2498,1346.0,84,Milwaukee Ave & Grand Ave,3,Shedd Aquarium,Subscriber,Male,1987,6
+21843559,2019-01-21 09:30:13.000000 UTC,2019-01-21 10:02:45.000000 UTC,0:32:32,6262,1952.0,85,Michigan Ave & Oak St,3,Shedd Aquarium,Subscriber,Male,1974,2
+21901234,2019-02-09 12:23:31.000000 UTC,2019-02-09 13:18:08.000000 UTC,0:54:37,1442,3277.0,85,Michigan Ave & Oak St,3,Shedd Aquarium,Customer,,,7
+21929761,2019-02-16 11:48:23.000000 UTC,2019-02-16 12:16:56.000000 UTC,0:28:33,1998,1713.0,85,Michigan Ave & Oak St,3,Shedd Aquarium,Customer,,,7
+21929763,2019-02-16 11:48:36.000000 UTC,2019-02-16 12:16:49.000000 UTC,0:28:13,2820,1693.0,85,Michigan Ave & Oak St,3,Shedd Aquarium,Customer,,,7
+21929766,2019-02-16 11:48:57.000000 UTC,2019-02-16 12:16:49.000000 UTC,0:27:52,4524,1672.0,85,Michigan Ave & Oak St,3,Shedd Aquarium,Subscriber,Female,1990,7
+22064835,2019-03-16 13:01:38.000000 UTC,2019-03-16 13:36:48.000000 UTC,0:35:10,5202,2110.0,85,Michigan Ave & Oak St,3,Shedd Aquarium,Customer,,,7
+22064841,2019-03-16 13:02:07.000000 UTC,2019-03-16 13:37:02.000000 UTC,0:34:55,4773,2095.0,85,Michigan Ave & Oak St,3,Shedd Aquarium,Customer,,,7
+22165636,2019-03-29 12:37:28.000000 UTC,2019-03-29 12:55:00.000000 UTC,0:17:32,4774,1052.0,85,Michigan Ave & Oak St,3,Shedd Aquarium,Customer,,,6
+22165638,2019-03-29 12:37:38.000000 UTC,2019-03-29 12:55:00.000000 UTC,0:17:22,4650,1042.0,85,Michigan Ave & Oak St,3,Shedd Aquarium,Subscriber,Female,1990,6
+22038994,2019-03-12 18:14:31.000000 UTC,2019-03-12 18:41:55.000000 UTC,0:27:24,1417,1644.0,89,Financial Pl & Ida B Wells Dr (Temp),3,Shedd Aquarium,Customer,,,3
+22039005,2019-03-12 18:15:17.000000 UTC,2019-03-12 18:41:39.000000 UTC,0:26:22,4094,1582.0,89,Financial Pl & Ida B Wells Dr (Temp),3,Shedd Aquarium,Customer,,,3
+21776007,2019-01-07 12:13:03.000000 UTC,2019-01-07 12:35:06.000000 UTC,0:22:03,1765,1323.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,2
+21776009,2019-01-07 12:13:12.000000 UTC,2019-01-07 12:33:36.000000 UTC,0:20:24,4408,1224.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,2
+21776010,2019-01-07 12:13:24.000000 UTC,2019-01-07 12:34:47.000000 UTC,0:21:23,3815,1283.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,2
+21789724,2019-01-09 10:46:01.000000 UTC,2019-01-09 10:58:57.000000 UTC,0:12:56,6111,776.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,4
+21789725,2019-01-09 10:46:25.000000 UTC,2019-01-09 10:58:57.000000 UTC,0:12:32,1446,752.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,4
+21835950,2019-01-18 07:26:10.000000 UTC,2019-01-18 07:36:18.000000 UTC,0:10:08,5503,608.0,90,Millennium Park,3,Shedd Aquarium,Subscriber,Male,1950,6
+21960054,2019-02-24 11:48:04.000000 UTC,2019-02-24 12:11:42.000000 UTC,0:23:38,3228,1418.0,90,Millennium Park,3,Shedd Aquarium,Customer,Male,1993,1
+21990141,2019-03-02 15:59:53.000000 UTC,2019-03-02 16:19:58.000000 UTC,0:20:05,4784,1205.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,7
+21990143,2019-03-02 16:00:04.000000 UTC,2019-03-02 16:19:58.000000 UTC,0:19:54,1793,1194.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,7
+21990144,2019-03-02 16:00:08.000000 UTC,2019-03-02 16:19:58.000000 UTC,0:19:50,4554,1190.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,7
+22008916,2019-03-07 10:56:40.000000 UTC,2019-03-07 11:09:16.000000 UTC,0:12:36,5203,756.0,90,Millennium Park,3,Shedd Aquarium,Subscriber,Female,1954,5
+22013096,2019-03-08 07:25:59.000000 UTC,2019-03-08 07:35:55.000000 UTC,0:09:56,3345,596.0,90,Millennium Park,3,Shedd Aquarium,Subscriber,Male,1950,6
+22014699,2019-03-08 11:32:17.000000 UTC,2019-03-08 11:53:48.000000 UTC,0:21:31,5138,1291.0,90,Millennium Park,3,Shedd Aquarium,Subscriber,Female,1954,6
+22019766,2019-03-09 11:59:25.000000 UTC,2019-03-09 12:23:53.000000 UTC,0:24:28,3207,1468.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,7
+22035119,2019-03-12 13:03:00.000000 UTC,2019-03-12 13:23:25.000000 UTC,0:20:25,2659,1225.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,3
+22042550,2019-03-13 10:27:59.000000 UTC,2019-03-13 10:46:08.000000 UTC,0:18:09,5657,1089.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,4
+22042552,2019-03-13 10:28:09.000000 UTC,2019-03-13 10:46:08.000000 UTC,0:17:59,2827,1079.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,4
+22042553,2019-03-13 10:28:13.000000 UTC,2019-03-13 10:46:29.000000 UTC,0:18:16,4414,1096.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,4
+22042554,2019-03-13 10:28:19.000000 UTC,2019-03-13 10:46:15.000000 UTC,0:17:56,1083,1076.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,4
+22068512,2019-03-17 10:23:01.000000 UTC,2019-03-17 10:54:41.000000 UTC,0:31:40,6268,1900.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,1
+22068514,2019-03-17 10:23:15.000000 UTC,2019-03-17 10:54:41.000000 UTC,0:31:26,4245,1886.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,1
+22068594,2019-03-17 10:36:24.000000 UTC,2019-03-17 11:09:44.000000 UTC,0:33:20,2983,2000.0,90,Millennium Park,3,Shedd Aquarium,Customer,Female,1997,1
+22068596,2019-03-17 10:36:26.000000 UTC,2019-03-17 11:09:59.000000 UTC,0:33:33,6020,2013.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,1
+22070310,2019-03-17 14:09:46.000000 UTC,2019-03-17 14:32:04.000000 UTC,0:22:18,5515,1338.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,1
+22071122,2019-03-17 15:24:10.000000 UTC,2019-03-17 15:49:01.000000 UTC,0:24:51,6346,1491.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,1
+22071125,2019-03-17 15:24:26.000000 UTC,2019-03-17 15:48:50.000000 UTC,0:24:24,6020,1464.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,1
+22099724,2019-03-21 11:36:31.000000 UTC,2019-03-21 11:48:39.000000 UTC,0:12:08,815,728.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,5
+22099725,2019-03-21 11:36:44.000000 UTC,2019-03-21 11:48:43.000000 UTC,0:11:59,5636,719.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,5
+22105616,2019-03-22 07:28:43.000000 UTC,2019-03-22 07:37:15.000000 UTC,0:08:32,4431,512.0,90,Millennium Park,3,Shedd Aquarium,Subscriber,Male,1950,6
+22114096,2019-03-23 10:20:13.000000 UTC,2019-03-23 10:51:07.000000 UTC,0:30:54,4716,1854.0,90,Millennium Park,3,Shedd Aquarium,Customer,Male,1983,7
+22114219,2019-03-23 10:35:42.000000 UTC,2019-03-23 11:05:41.000000 UTC,0:29:59,2236,1799.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,7
+22114220,2019-03-23 10:35:46.000000 UTC,2019-03-23 11:04:45.000000 UTC,0:28:59,5891,1739.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,7
+22128637,2019-03-25 15:08:40.000000 UTC,2019-03-25 15:25:52.000000 UTC,0:17:12,3700,1032.0,90,Millennium Park,3,Shedd Aquarium,Customer,Male,1974,2
+22144943,2019-03-27 13:51:43.000000 UTC,2019-03-27 14:14:24.000000 UTC,0:22:41,5169,1361.0,90,Millennium Park,3,Shedd Aquarium,Customer,Female,1978,4
+22144971,2019-03-27 13:54:46.000000 UTC,2019-03-27 14:13:51.000000 UTC,0:19:05,2668,1145.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,4
+22144977,2019-03-27 13:54:57.000000 UTC,2019-03-27 14:13:51.000000 UTC,0:18:54,5728,1134.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,4
+22144978,2019-03-27 13:54:59.000000 UTC,2019-03-27 14:14:15.000000 UTC,0:19:16,4945,1156.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,4
+22156772,2019-03-28 14:55:05.000000 UTC,2019-03-28 15:09:18.000000 UTC,0:14:13,5623,853.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,5
+22156775,2019-03-28 14:55:23.000000 UTC,2019-03-28 15:09:27.000000 UTC,0:14:04,6061,844.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,5
+22157197,2019-03-28 15:36:38.000000 UTC,2019-03-28 15:53:14.000000 UTC,0:16:36,6061,996.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,5
+22157198,2019-03-28 15:36:43.000000 UTC,2019-03-28 15:53:18.000000 UTC,0:16:35,2380,995.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,5
+22157199,2019-03-28 15:36:47.000000 UTC,2019-03-28 15:53:13.000000 UTC,0:16:26,5063,986.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,5
+22157200,2019-03-28 15:36:55.000000 UTC,2019-03-28 15:53:13.000000 UTC,0:16:18,4705,978.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,5
+22162604,2019-03-29 07:24:58.000000 UTC,2019-03-29 07:32:16.000000 UTC,0:07:18,6301,438.0,90,Millennium Park,3,Shedd Aquarium,Subscriber,Male,1950,6
+22171833,2019-03-30 11:22:10.000000 UTC,2019-03-30 11:38:22.000000 UTC,0:16:12,2698,972.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,7
+22171836,2019-03-30 11:22:44.000000 UTC,2019-03-30 11:38:17.000000 UTC,0:15:33,2252,933.0,90,Millennium Park,3,Shedd Aquarium,Customer,,,7
+22176222,2019-03-31 13:07:10.000000 UTC,2019-03-31 13:16:40.000000 UTC,0:09:30,6300,570.0,90,Millennium Park,3,Shedd Aquarium,Subscriber,Male,1950,1
+21745135,2019-01-02 08:03:11.000000 UTC,2019-01-02 08:25:23.000000 UTC,0:22:12,2194,1332.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1968,4
+21780417,2019-01-08 07:15:25.000000 UTC,2019-01-08 07:34:11.000000 UTC,0:18:46,1784,1126.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,3
+21788090,2019-01-09 07:16:49.000000 UTC,2019-01-09 07:37:40.000000 UTC,0:20:51,1558,1251.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,4
+21792348,2019-01-09 18:05:39.000000 UTC,2019-01-09 18:26:27.000000 UTC,0:20:48,6149,1248.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Male,1964,4
+21793895,2019-01-10 07:18:50.000000 UTC,2019-01-10 07:38:46.000000 UTC,0:19:56,3212,1196.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,5
+21800116,2019-01-11 07:17:32.000000 UTC,2019-01-11 07:37:21.000000 UTC,0:19:49,5410,1189.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,6
+21814711,2019-01-14 17:45:28.000000 UTC,2019-01-14 18:10:35.000000 UTC,0:25:07,2549,1507.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Male,1964,2
+21816365,2019-01-15 06:48:36.000000 UTC,2019-01-15 07:08:19.000000 UTC,0:19:43,1130,1183.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,3
+21817699,2019-01-15 08:48:27.000000 UTC,2019-01-15 09:08:11.000000 UTC,0:19:44,1229,1184.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1968,3
+21822407,2019-01-16 06:47:24.000000 UTC,2019-01-16 07:07:56.000000 UTC,0:20:32,261,1232.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,4
+21835853,2019-01-18 07:13:41.000000 UTC,2019-01-18 07:31:13.000000 UTC,0:17:32,2730,1052.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,6
+21845505,2019-01-22 07:21:27.000000 UTC,2019-01-22 07:45:29.000000 UTC,0:24:02,877,1442.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,3
+21846268,2019-01-22 08:48:41.000000 UTC,2019-01-22 09:09:52.000000 UTC,0:21:11,3949,1271.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1968,3
+21877238,2019-02-04 17:31:50.000000 UTC,2019-02-04 17:52:29.000000 UTC,0:20:39,3347,1239.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Male,1964,2
+21879522,2019-02-05 07:23:15.000000 UTC,2019-02-05 07:44:47.000000 UTC,0:21:32,5199,1292.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,3
+21880715,2019-02-05 08:52:43.000000 UTC,2019-02-05 09:11:24.000000 UTC,0:18:41,5447,1121.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1968,3
+21884017,2019-02-05 17:45:06.000000 UTC,2019-02-05 18:11:56.000000 UTC,0:26:50,6469,1610.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Male,1964,3
+21890479,2019-02-06 18:02:16.000000 UTC,2019-02-06 18:26:54.000000 UTC,0:24:38,5139,1478.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Male,1964,4
+21924608,2019-02-15 07:19:32.000000 UTC,2019-02-15 07:39:09.000000 UTC,0:19:37,3687,1177.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,6
+21945783,2019-02-21 07:00:07.000000 UTC,2019-02-21 07:21:21.000000 UTC,0:21:14,3337,1274.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,5
+21952001,2019-02-22 07:24:33.000000 UTC,2019-02-22 07:43:55.000000 UTC,0:19:22,4373,1162.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,6
+21971666,2019-02-27 07:14:59.000000 UTC,2019-02-27 07:32:33.000000 UTC,0:17:34,5017,1054.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,4
+21977377,2019-02-28 07:18:39.000000 UTC,2019-02-28 07:37:53.000000 UTC,0:19:14,2609,1154.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,5
+21982760,2019-03-01 07:13:55.000000 UTC,2019-03-01 07:33:26.000000 UTC,0:19:31,1558,1171.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,6
+22007257,2019-03-07 07:24:50.000000 UTC,2019-03-07 07:45:42.000000 UTC,0:20:52,643,1252.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,5
+22032009,2019-03-12 07:16:23.000000 UTC,2019-03-12 07:35:49.000000 UTC,0:19:26,3405,1166.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,3
+22032889,2019-03-12 08:20:16.000000 UTC,2019-03-12 08:39:49.000000 UTC,0:19:33,5783,1173.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1968,3
+22048693,2019-03-14 07:17:27.000000 UTC,2019-03-14 07:38:38.000000 UTC,0:21:11,1138,1271.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,5
+22056685,2019-03-15 07:24:16.000000 UTC,2019-03-15 07:42:00.000000 UTC,0:17:44,2407,1064.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,6
+22089451,2019-03-19 18:12:57.000000 UTC,2019-03-19 18:33:39.000000 UTC,0:20:42,2326,1242.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Male,1964,3
+22091529,2019-03-20 06:49:30.000000 UTC,2019-03-20 07:08:09.000000 UTC,0:18:39,4843,1119.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,4
+22097634,2019-03-21 06:53:24.000000 UTC,2019-03-21 07:11:39.000000 UTC,0:18:15,2406,1095.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,5
+22103604,2019-03-21 18:30:59.000000 UTC,2019-03-21 18:51:25.000000 UTC,0:20:26,6293,1226.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Male,1964,5
+22141472,2019-03-27 07:14:20.000000 UTC,2019-03-27 07:32:05.000000 UTC,0:17:45,6338,1065.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,4
+22151861,2019-03-28 07:15:24.000000 UTC,2019-03-28 07:32:17.000000 UTC,0:16:53,1486,1013.0,91,Clinton St & Washington Blvd,3,Shedd Aquarium,Subscriber,Female,1975,5
+21759138,2019-01-04 14:13:14.000000 UTC,2019-01-04 14:29:54.000000 UTC,0:16:40,4213,1000.0,97,Field Museum,3,Shedd Aquarium,Customer,,,6
+21759140,2019-01-04 14:13:27.000000 UTC,2019-01-04 14:29:54.000000 UTC,0:16:27,4540,987.0,97,Field Museum,3,Shedd Aquarium,Customer,,,6
+22034553,2019-03-12 11:38:13.000000 UTC,2019-03-12 11:40:58.000000 UTC,0:02:45,2813,165.0,97,Field Museum,3,Shedd Aquarium,Subscriber,Female,1982,3
+22071273,2019-03-17 15:42:19.000000 UTC,2019-03-17 15:44:49.000000 UTC,0:02:30,4673,150.0,97,Field Museum,3,Shedd Aquarium,Subscriber,Male,1992,1
+22164078,2019-03-29 08:59:43.000000 UTC,2019-03-29 09:03:33.000000 UTC,0:03:50,3239,230.0,97,Field Museum,3,Shedd Aquarium,Subscriber,Female,1970,6
+21796366,2019-01-10 14:20:56.000000 UTC,2019-01-10 14:38:56.000000 UTC,0:18:00,3229,1080.0,99,Lake Shore Dr & Ohio St,3,Shedd Aquarium,Subscriber,Male,1984,5
+21870474,2019-02-03 12:43:43.000000 UTC,2019-02-03 13:04:59.000000 UTC,0:21:16,4392,1276.0,99,Lake Shore Dr & Ohio St,3,Shedd Aquarium,Subscriber,Female,1990,1
+21870482,2019-02-03 12:46:09.000000 UTC,2019-02-03 13:04:59.000000 UTC,0:18:50,3161,1130.0,99,Lake Shore Dr & Ohio St,3,Shedd Aquarium,Subscriber,Male,1993,1
+21920102,2019-02-14 12:08:25.000000 UTC,2019-02-14 12:34:35.000000 UTC,0:26:10,4538,1570.0,99,Lake Shore Dr & Ohio St,3,Shedd Aquarium,Customer,,,5
+21920266,2019-02-14 12:42:19.000000 UTC,2019-02-14 12:59:21.000000 UTC,0:17:02,4949,1022.0,99,Lake Shore Dr & Ohio St,3,Shedd Aquarium,Subscriber,Male,1991,5
+22075733,2019-03-18 10:45:12.000000 UTC,2019-03-18 11:26:09.000000 UTC,0:40:57,5525,2457.0,99,Lake Shore Dr & Ohio St,3,Shedd Aquarium,Customer,,,2
+22075734,2019-03-18 10:45:48.000000 UTC,2019-03-18 11:26:01.000000 UTC,0:40:13,4098,2413.0,99,Lake Shore Dr & Ohio St,3,Shedd Aquarium,Customer,,,2
+22121680,2019-03-24 10:21:32.000000 UTC,2019-03-24 10:45:27.000000 UTC,0:23:55,1287,1435.0,99,Lake Shore Dr & Ohio St,3,Shedd Aquarium,Customer,,,1
+22121681,2019-03-24 10:21:51.000000 UTC,2019-03-24 10:45:19.000000 UTC,0:23:28,2748,1408.0,99,Lake Shore Dr & Ohio St,3,Shedd Aquarium,Customer,,,1
+22156793,2019-03-28 14:57:09.000000 UTC,2019-03-28 15:15:14.000000 UTC,0:18:05,3342,1085.0,99,Lake Shore Dr & Ohio St,3,Shedd Aquarium,Subscriber,Male,1985,5
+21978855,2019-02-28 10:39:19.000000 UTC,2019-02-28 10:57:26.000000 UTC,0:18:07,6185,1087.0,100,Orleans St & Merchandise Mart Plaza,3,Shedd Aquarium,Subscriber,Male,1980,5
+22135856,2019-03-26 12:58:40.000000 UTC,2019-03-26 13:24:52.000000 UTC,0:26:12,5027,1572.0,106,State St & Pearson St,3,Shedd Aquarium,Subscriber,Male,1966,3
+22135887,2019-03-26 13:02:03.000000 UTC,2019-03-26 13:24:46.000000 UTC,0:22:43,1311,1363.0,106,State St & Pearson St,3,Shedd Aquarium,Customer,,,3
+22069016,2019-03-17 11:46:59.000000 UTC,2019-03-17 12:06:41.000000 UTC,0:19:42,473,1182.0,109,900 W Harrison St,3,Shedd Aquarium,Subscriber,Male,1975,1
+22071536,2019-03-17 16:16:54.000000 UTC,2019-03-17 16:50:31.000000 UTC,0:33:37,5525,2017.0,110,Dearborn St & Erie St,3,Shedd Aquarium,Customer,Male,1998,1
+22071537,2019-03-17 16:16:54.000000 UTC,2019-03-17 16:50:31.000000 UTC,0:33:37,478,2017.0,110,Dearborn St & Erie St,3,Shedd Aquarium,Customer,Male,1998,1
+21802528,2019-01-11 13:16:50.000000 UTC,2019-01-11 15:27:06.000000 UTC,2:10:16,3490,7816.0,114,Sheffield Ave & Waveland Ave,3,Shedd Aquarium,Customer,Male,1979,6
+21802529,2019-01-11 13:17:09.000000 UTC,2019-01-11 15:27:23.000000 UTC,2:10:14,5797,7814.0,114,Sheffield Ave & Waveland Ave,3,Shedd Aquarium,Customer,Female,1989,6
+21802560,2019-01-11 13:24:30.000000 UTC,2019-01-11 15:27:23.000000 UTC,2:02:53,2194,7373.0,114,Sheffield Ave & Waveland Ave,3,Shedd Aquarium,Customer,,,6
+21802564,2019-01-11 13:24:49.000000 UTC,2019-01-11 15:27:47.000000 UTC,2:02:58,657,7378.0,114,Sheffield Ave & Waveland Ave,3,Shedd Aquarium,Customer,,,6
+21802565,2019-01-11 13:25:01.000000 UTC,2019-01-11 15:27:06.000000 UTC,2:02:05,1391,7325.0,114,Sheffield Ave & Waveland Ave,3,Shedd Aquarium,Customer,,,6
+21901176,2019-02-09 12:10:25.000000 UTC,2019-02-09 13:26:42.000000 UTC,1:16:17,6136,4577.0,114,Sheffield Ave & Waveland Ave,3,Shedd Aquarium,Customer,,,7
+21850465,2019-01-23 15:18:04.000000 UTC,2019-01-23 15:57:24.000000 UTC,0:39:20,603,2360.0,121,Blackstone Ave & Hyde Park Blvd,3,Shedd Aquarium,Subscriber,Male,1966,4
+21854173,2019-01-24 12:20:07.000000 UTC,2019-01-24 13:01:41.000000 UTC,0:41:34,603,2494.0,121,Blackstone Ave & Hyde Park Blvd,3,Shedd Aquarium,Subscriber,Male,1966,5
+21991262,2019-03-03 09:01:12.000000 UTC,2019-03-03 09:52:16.000000 UTC,0:51:04,3587,3064.0,125,Rush St & Hubbard St,3,Shedd Aquarium,Customer,Male,1993,1
+22135912,2019-03-26 13:04:11.000000 UTC,2019-03-26 13:28:46.000000 UTC,0:24:35,1332,1475.0,125,Rush St & Hubbard St,3,Shedd Aquarium,Customer,Male,1996,3
+22142759,2019-03-27 08:43:15.000000 UTC,2019-03-27 09:00:04.000000 UTC,0:16:49,6047,1009.0,125,Rush St & Hubbard St,3,Shedd Aquarium,Customer,,,4
+22144018,2019-03-27 11:37:53.000000 UTC,2019-03-27 12:10:26.000000 UTC,0:32:33,1237,1953.0,125,Rush St & Hubbard St,3,Shedd Aquarium,Customer,Female,1968,4
+22144044,2019-03-27 11:42:22.000000 UTC,2019-03-27 12:09:51.000000 UTC,0:27:29,820,1649.0,125,Rush St & Hubbard St,3,Shedd Aquarium,Customer,Male,1968,4
+21771547,2019-01-06 12:16:34.000000 UTC,2019-01-06 12:45:15.000000 UTC,0:28:41,5124,1721.0,126,Clark St & North Ave,3,Shedd Aquarium,Subscriber,Female,1989,1
+21771557,2019-01-06 12:17:52.000000 UTC,2019-01-06 12:45:06.000000 UTC,0:27:14,1674,1634.0,126,Clark St & North Ave,3,Shedd Aquarium,Subscriber,Male,1988,1
+21861331,2019-01-28 08:38:06.000000 UTC,2019-01-28 09:06:58.000000 UTC,0:28:52,3443,1732.0,126,Clark St & North Ave,3,Shedd Aquarium,Subscriber,Male,1978,2
+22156743,2019-03-28 14:52:32.000000 UTC,2019-03-28 15:15:14.000000 UTC,0:22:42,3703,1362.0,129,Blue Island Ave & 18th St,3,Shedd Aquarium,Subscriber,Male,1982,5
+22076112,2019-03-18 11:54:25.000000 UTC,2019-03-18 12:11:00.000000 UTC,0:16:35,3607,995.0,132,Wentworth Ave & 24th St,3,Shedd Aquarium,Subscriber,Male,1999,2
+21925297,2019-02-15 08:43:07.000000 UTC,2019-02-15 09:26:23.000000 UTC,0:43:16,3536,2596.0,136,Racine Ave & 13th St,3,Shedd Aquarium,Customer,Male,1992,6
+22106813,2019-03-22 08:45:58.000000 UTC,2019-03-22 09:08:32.000000 UTC,0:22:34,6412,1354.0,141,Clark St & Lincoln Ave,3,Shedd Aquarium,Subscriber,Male,1978,6
+22133874,2019-03-26 08:27:33.000000 UTC,2019-03-26 08:51:30.000000 UTC,0:23:57,851,1437.0,141,Clark St & Lincoln Ave,3,Shedd Aquarium,Subscriber,Male,1978,3
+21771972,2019-01-06 13:15:21.000000 UTC,2019-01-06 13:30:44.000000 UTC,0:15:23,5756,923.0,142,McClurg Ct & Erie St,3,Shedd Aquarium,Customer,Male,1991,1
+21771977,2019-01-06 13:16:14.000000 UTC,2019-01-06 13:30:02.000000 UTC,0:13:48,4114,828.0,142,McClurg Ct & Erie St,3,Shedd Aquarium,Subscriber,Female,1979,1
+22114486,2019-03-23 11:08:24.000000 UTC,2019-03-23 11:39:51.000000 UTC,0:31:27,3219,1887.0,142,McClurg Ct & Erie St,3,Shedd Aquarium,Customer,,,7
+22114492,2019-03-23 11:08:53.000000 UTC,2019-03-23 11:39:51.000000 UTC,0:30:58,2707,1858.0,142,McClurg Ct & Erie St,3,Shedd Aquarium,Customer,,,7
+22092741,2019-03-20 10:54:11.000000 UTC,2019-03-20 11:27:50.000000 UTC,0:33:39,2906,2019.0,145,Mies van der Rohe Way & Chestnut St,3,Shedd Aquarium,Customer,Male,1997,4
+22092744,2019-03-20 10:54:26.000000 UTC,2019-03-20 11:27:50.000000 UTC,0:33:24,4124,2004.0,145,Mies van der Rohe Way & Chestnut St,3,Shedd Aquarium,Customer,Male,1996,4
+22156110,2019-03-28 13:41:37.000000 UTC,2019-03-28 14:02:04.000000 UTC,0:20:27,1688,1227.0,146,Loomis St & Jackson Blvd,3,Shedd Aquarium,Customer,,,5
+21822431,2019-01-16 06:50:09.000000 UTC,2019-01-16 07:06:16.000000 UTC,0:16:07,107,967.0,150,Fort Dearborn Dr & 31st St,3,Shedd Aquarium,Subscriber,Female,1971,4
+21905252,2019-02-11 06:54:36.000000 UTC,2019-02-11 07:10:18.000000 UTC,0:15:42,6122,942.0,150,Fort Dearborn Dr & 31st St,3,Shedd Aquarium,Subscriber,Female,1971,2
+21974671,2019-02-27 16:20:03.000000 UTC,2019-02-27 17:14:27.000000 UTC,0:54:24,305,3264.0,150,Fort Dearborn Dr & 31st St,3,Shedd Aquarium,Customer,Female,1991,4
+22079915,2019-03-18 18:08:14.000000 UTC,2019-03-18 18:27:59.000000 UTC,0:19:45,1125,1185.0,150,Fort Dearborn Dr & 31st St,3,Shedd Aquarium,Subscriber,Male,1991,2
+22144612,2019-03-27 13:03:27.000000 UTC,2019-03-27 13:59:42.000000 UTC,0:56:15,5303,3375.0,150,Fort Dearborn Dr & 31st St,3,Shedd Aquarium,Subscriber,Male,1988,4
+22146565,2019-03-27 16:28:10.000000 UTC,2019-03-27 16:42:49.000000 UTC,0:14:39,6092,879.0,150,Fort Dearborn Dr & 31st St,3,Shedd Aquarium,Subscriber,Female,1981,4
+21758128,2019-01-04 11:36:42.000000 UTC,2019-01-04 12:15:08.000000 UTC,0:38:26,2814,2306.0,157,Lake Shore Dr & Wellington Ave,3,Shedd Aquarium,Customer,,,6
+21758130,2019-01-04 11:36:58.000000 UTC,2019-01-04 12:15:16.000000 UTC,0:38:18,1392,2298.0,157,Lake Shore Dr & Wellington Ave,3,Shedd Aquarium,Customer,,,6
+22121913,2019-03-24 10:52:06.000000 UTC,2019-03-24 11:26:19.000000 UTC,0:34:13,3261,2053.0,161,Rush St & Superior St,3,Shedd Aquarium,Customer,,,1
+22121915,2019-03-24 10:52:12.000000 UTC,2019-03-24 11:26:05.000000 UTC,0:33:53,2710,2033.0,161,Rush St & Superior St,3,Shedd Aquarium,Customer,,,1
+22171736,2019-03-30 11:07:44.000000 UTC,2019-03-30 11:59:22.000000 UTC,0:51:38,3164,3098.0,165,Clark St & Grace St,3,Shedd Aquarium,Customer,,,7
+22171737,2019-03-30 11:08:00.000000 UTC,2019-03-30 11:59:22.000000 UTC,0:51:22,5835,3082.0,165,Clark St & Grace St,3,Shedd Aquarium,Customer,,,7
+22171738,2019-03-30 11:08:06.000000 UTC,2019-03-30 11:59:22.000000 UTC,0:51:16,5237,3076.0,165,Clark St & Grace St,3,Shedd Aquarium,Customer,,,7
+21904109,2019-02-10 13:13:40.000000 UTC,2019-02-10 13:19:16.000000 UTC,0:05:36,4404,336.0,168,Michigan Ave & 14th St,3,Shedd Aquarium,Subscriber,Female,1980,1
+22038750,2019-03-12 17:57:55.000000 UTC,2019-03-12 18:02:51.000000 UTC,0:04:56,5261,296.0,168,Michigan Ave & 14th St,3,Shedd Aquarium,Subscriber,Male,1970,3
+21924919,2019-02-15 07:58:00.000000 UTC,2019-02-15 08:10:40.000000 UTC,0:12:40,4098,760.0,169,Canal St & Harrison St,3,Shedd Aquarium,Subscriber,Male,1983,6
+21961934,2019-02-25 08:04:31.000000 UTC,2019-02-25 08:17:02.000000 UTC,0:12:31,1752,751.0,169,Canal St & Harrison St,3,Shedd Aquarium,Subscriber,Male,1983,2
+22041392,2019-03-13 08:07:33.000000 UTC,2019-03-13 08:19:29.000000 UTC,0:11:56,460,716.0,169,Canal St & Harrison St,3,Shedd Aquarium,Subscriber,Male,1983,4
+22176816,2019-03-31 14:52:28.000000 UTC,2019-03-31 15:13:33.000000 UTC,0:21:05,2795,1265.0,173,Mies van der Rohe Way & Chicago Ave,3,Shedd Aquarium,Customer,,,1
+22176818,2019-03-31 14:52:37.000000 UTC,2019-03-31 15:13:37.000000 UTC,0:21:00,6281,1260.0,173,Mies van der Rohe Way & Chicago Ave,3,Shedd Aquarium,Customer,,,1
+22176820,2019-03-31 14:52:46.000000 UTC,2019-03-31 15:13:17.000000 UTC,0:20:31,155,1231.0,173,Mies van der Rohe Way & Chicago Ave,3,Shedd Aquarium,Customer,,,1
+22176822,2019-03-31 14:53:08.000000 UTC,2019-03-31 15:13:50.000000 UTC,0:20:42,5372,1242.0,173,Mies van der Rohe Way & Chicago Ave,3,Shedd Aquarium,Customer,,,1
+21742621,2019-01-01 06:52:55.000000 UTC,2019-01-01 07:14:00.000000 UTC,0:21:05,585,1265.0,174,Canal St & Madison St,3,Shedd Aquarium,Subscriber,Female,1982,3
+21742623,2019-01-01 06:53:01.000000 UTC,2019-01-01 07:14:16.000000 UTC,0:21:15,1468,1275.0,174,Canal St & Madison St,3,Shedd Aquarium,Subscriber,Female,1986,3
+21772239,2019-01-06 13:59:06.000000 UTC,2019-01-06 14:21:07.000000 UTC,0:22:01,4135,1321.0,174,Canal St & Madison St,3,Shedd Aquarium,Subscriber,Male,1970,1
+21901571,2019-02-09 13:57:05.000000 UTC,2019-02-09 14:54:23.000000 UTC,0:57:18,4236,3438.0,174,Canal St & Madison St,3,Shedd Aquarium,Customer,Male,2000,7
+21901574,2019-02-09 13:57:26.000000 UTC,2019-02-09 14:54:06.000000 UTC,0:56:40,2678,3400.0,174,Canal St & Madison St,3,Shedd Aquarium,Customer,Male,1999,7
+21931914,2019-02-17 10:27:24.000000 UTC,2019-02-17 10:51:29.000000 UTC,0:24:05,5380,1445.0,174,Canal St & Madison St,3,Shedd Aquarium,Subscriber,Male,1986,1
+21967445,2019-02-26 08:57:33.000000 UTC,2019-02-26 09:15:36.000000 UTC,0:18:03,1608,1083.0,174,Canal St & Madison St,3,Shedd Aquarium,Subscriber,Female,1968,3
+22025106,2019-03-11 08:06:08.000000 UTC,2019-03-11 08:26:16.000000 UTC,0:20:08,3705,1208.0,174,Canal St & Madison St,3,Shedd Aquarium,Subscriber,Female,1992,2
+22156147,2019-03-28 13:45:54.000000 UTC,2019-03-28 14:09:06.000000 UTC,0:23:12,3190,1392.0,174,Canal St & Madison St,3,Shedd Aquarium,Customer,Male,1980,5
+22059780,2019-03-15 15:58:11.000000 UTC,2019-03-15 16:11:18.000000 UTC,0:13:07,752,787.0,175,Wells St & Polk St,3,Shedd Aquarium,Subscriber,Female,1992,6
+22146826,2019-03-27 16:41:38.000000 UTC,2019-03-27 17:04:09.000000 UTC,0:22:31,5345,1351.0,175,Wells St & Polk St,3,Shedd Aquarium,Subscriber,Female,1988,4
+21832197,2019-01-17 14:54:21.000000 UTC,2019-01-17 15:31:04.000000 UTC,0:36:43,5352,2203.0,177,Theater on the Lake,3,Shedd Aquarium,Subscriber,Male,1969,5
+21876082,2019-02-04 16:15:20.000000 UTC,2019-02-04 16:43:25.000000 UTC,0:28:05,3751,1685.0,177,Theater on the Lake,3,Shedd Aquarium,Subscriber,Male,1966,2
+21782329,2019-01-08 09:32:07.000000 UTC,2019-01-08 09:57:37.000000 UTC,0:25:30,5224,1530.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,3
+21789418,2019-01-09 09:13:46.000000 UTC,2019-01-09 09:36:18.000000 UTC,0:22:32,1975,1352.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,4
+21794569,2019-01-10 08:19:31.000000 UTC,2019-01-10 08:43:04.000000 UTC,0:23:33,6149,1413.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,5
+21801490,2019-01-11 09:17:21.000000 UTC,2019-01-11 09:41:38.000000 UTC,0:24:17,4013,1457.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,6
+21811782,2019-01-14 09:09:42.000000 UTC,2019-01-14 09:34:06.000000 UTC,0:24:24,6027,1464.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,2
+21829984,2019-01-17 08:13:36.000000 UTC,2019-01-17 08:36:13.000000 UTC,0:22:37,6298,1357.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,5
+21874110,2019-02-04 08:54:31.000000 UTC,2019-02-04 09:15:59.000000 UTC,0:21:28,3964,1288.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,2
+21886579,2019-02-06 08:47:51.000000 UTC,2019-02-06 09:12:35.000000 UTC,0:24:44,6469,1484.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,4
+22026689,2019-03-11 11:41:04.000000 UTC,2019-03-11 12:05:22.000000 UTC,0:24:18,3625,1458.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,2
+22033831,2019-03-12 09:29:12.000000 UTC,2019-03-12 09:54:59.000000 UTC,0:25:47,6162,1547.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,3
+22057803,2019-03-15 09:14:51.000000 UTC,2019-03-15 09:37:04.000000 UTC,0:22:13,5747,1333.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,6
+22075305,2019-03-18 09:22:33.000000 UTC,2019-03-18 09:45:36.000000 UTC,0:23:03,4928,1383.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,2
+22084006,2019-03-19 09:32:57.000000 UTC,2019-03-19 09:54:37.000000 UTC,0:21:40,4618,1300.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,3
+22107201,2019-03-22 09:18:06.000000 UTC,2019-03-22 09:45:12.000000 UTC,0:27:06,6293,1626.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,6
+22126838,2019-03-25 09:12:03.000000 UTC,2019-03-25 09:39:41.000000 UTC,0:27:38,3985,1658.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,2
+22134414,2019-03-26 09:04:10.000000 UTC,2019-03-26 09:27:22.000000 UTC,0:23:12,1070,1392.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,3
+22142987,2019-03-27 09:00:34.000000 UTC,2019-03-27 09:21:57.000000 UTC,0:21:23,2326,1283.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,4
+22153966,2019-03-28 09:28:37.000000 UTC,2019-03-28 09:49:13.000000 UTC,0:20:36,4236,1236.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,5
+22164304,2019-03-29 09:20:15.000000 UTC,2019-03-29 09:45:39.000000 UTC,0:25:24,3481,1524.0,179,MLK Jr Dr & Pershing Rd,3,Shedd Aquarium,Subscriber,Male,1964,6
+22083878,2019-03-19 09:14:19.000000 UTC,2019-03-19 10:02:34.000000 UTC,0:48:15,5985,2895.0,180,Ritchie Ct & Banks St,3,Shedd Aquarium,Customer,Female,1988,3
+22083899,2019-03-19 09:17:26.000000 UTC,2019-03-19 10:02:27.000000 UTC,0:45:01,2491,2701.0,180,Ritchie Ct & Banks St,3,Shedd Aquarium,Customer,Male,1992,3
+21806823,2019-01-12 10:31:55.000000 UTC,2019-01-12 10:54:56.000000 UTC,0:23:01,2008,1381.0,181,LaSalle St & Illinois St,3,Shedd Aquarium,Subscriber,Male,1964,7
