@@ -71,6 +71,16 @@ Due to file size limitations, only **exported images of the final dashboards** a
 📁 See: `visualizations/`
 
 ---
+## SQL Analysis
+The analysis was conducted using SQL in Google BigQuery and structured into three stages:
 
-## Repository Structure
+- **Data Cleaning (`01_data_cleaning.sql`)**  
+  Data validation, removal of invalid records, and creation of derived variables such as ride length and day of week.
+
+- **Exploratory Analysis (`02_exploratory_analysis.sql`)**  
+  Examination of rider behavior, including ride frequency, average ride duration, and temporal usage patterns.
+
+- **Business Analysis (`03_business_analysis.sql`)**  
+  Analysis focused on bike type preference, station popularity, and route behavior to support membership conversion strategies.
+
 
